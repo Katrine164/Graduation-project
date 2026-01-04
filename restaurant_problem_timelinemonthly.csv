@@ -1,0 +1,2235 @@
+restaurant_name,year_month,detected_problem,problem_count,problem_percentage
+99 Grill,2022-03,Cleanliness,1,14.3
+99 Grill,2022-03,Delivery Speed,1,14.3
+99 Grill,2022-03,Missing / Wrong Items,1,14.3
+99 Grill,2022-03,Other,1,14.3
+99 Grill,2022-03,Price / Value,1,14.3
+99 Grill,2022-03,Service,1,14.3
+99 Grill,2022-03,Taste & Flavor,1,14.3
+99 Grill,2022-05,Missing / Wrong Items,5,11.4
+99 Grill,2022-05,Other,5,11.4
+99 Grill,2022-05,Portion Size,5,11.4
+99 Grill,2022-05,Price / Value,5,11.4
+99 Grill,2022-05,Service,5,11.4
+99 Grill,2022-05,Taste & Flavor,5,11.4
+99 Grill,2022-05,Cleanliness,4,9.1
+99 Grill,2022-05,Delivery Speed,4,9.1
+99 Grill,2022-05,Incorrect Billing,3,6.8
+99 Grill,2022-05,Packaging,2,4.5
+99 Grill,2022-05,Food Temperature,1,2.3
+99 Grill,2022-06,Missing / Wrong Items,3,15.8
+99 Grill,2022-06,Service,3,15.8
+99 Grill,2022-06,Taste & Flavor,3,15.8
+99 Grill,2022-06,Cleanliness,2,10.5
+99 Grill,2022-06,Incorrect Billing,2,10.5
+99 Grill,2022-06,Portion Size,2,10.5
+99 Grill,2022-06,Price / Value,2,10.5
+99 Grill,2022-06,Delivery Speed,1,5.3
+99 Grill,2022-06,Other,1,5.3
+99 Grill,2022-07,Incorrect Billing,5,11.4
+99 Grill,2022-07,Missing / Wrong Items,5,11.4
+99 Grill,2022-07,Other,5,11.4
+99 Grill,2022-07,Price / Value,5,11.4
+99 Grill,2022-07,Service,5,11.4
+99 Grill,2022-07,Taste & Flavor,5,11.4
+99 Grill,2022-07,Delivery Speed,4,9.1
+99 Grill,2022-07,Portion Size,4,9.1
+99 Grill,2022-07,Packaging,3,6.8
+99 Grill,2022-07,Cleanliness,2,4.5
+99 Grill,2022-07,Food Temperature,1,2.3
+99 Grill,2022-08,Incorrect Billing,3,13.6
+99 Grill,2022-08,Missing / Wrong Items,3,13.6
+99 Grill,2022-08,Service,3,13.6
+99 Grill,2022-08,Taste & Flavor,3,13.6
+99 Grill,2022-08,Food Temperature,2,9.1
+99 Grill,2022-08,Other,2,9.1
+99 Grill,2022-08,Portion Size,2,9.1
+99 Grill,2022-08,Cleanliness,1,4.5
+99 Grill,2022-08,Delivery Speed,1,4.5
+99 Grill,2022-08,Packaging,1,4.5
+99 Grill,2022-08,Price / Value,1,4.5
+99 Grill,2022-09,Cleanliness,3,14.3
+99 Grill,2022-09,Missing / Wrong Items,3,14.3
+99 Grill,2022-09,Service,3,14.3
+99 Grill,2022-09,Taste & Flavor,3,14.3
+99 Grill,2022-09,Delivery Speed,2,9.5
+99 Grill,2022-09,Incorrect Billing,2,9.5
+99 Grill,2022-09,Other,2,9.5
+99 Grill,2022-09,Price / Value,2,9.5
+99 Grill,2022-09,Portion Size,1,4.8
+99 Grill,2022-10,Missing / Wrong Items,9,13.0
+99 Grill,2022-10,Taste & Flavor,9,13.0
+99 Grill,2022-10,Price / Value,8,11.6
+99 Grill,2022-10,Service,8,11.6
+99 Grill,2022-10,Incorrect Billing,7,10.1
+99 Grill,2022-10,Portion Size,7,10.1
+99 Grill,2022-10,Cleanliness,6,8.7
+99 Grill,2022-10,Delivery Speed,6,8.7
+99 Grill,2022-10,Other,4,5.8
+99 Grill,2022-10,Packaging,3,4.3
+99 Grill,2022-10,Food Temperature,2,2.9
+99 Grill,2022-11,Missing / Wrong Items,4,14.8
+99 Grill,2022-11,Taste & Flavor,4,14.8
+99 Grill,2022-11,Cleanliness,3,11.1
+99 Grill,2022-11,Delivery Speed,3,11.1
+99 Grill,2022-11,Portion Size,3,11.1
+99 Grill,2022-11,Price / Value,3,11.1
+99 Grill,2022-11,Service,3,11.1
+99 Grill,2022-11,Food Temperature,2,7.4
+99 Grill,2022-11,Incorrect Billing,1,3.7
+99 Grill,2022-11,Other,1,3.7
+99 Grill,2022-12,Missing / Wrong Items,2,20.0
+99 Grill,2022-12,Portion Size,2,20.0
+99 Grill,2022-12,Service,2,20.0
+99 Grill,2022-12,Taste & Flavor,2,20.0
+99 Grill,2022-12,Food Temperature,1,10.0
+99 Grill,2022-12,Incorrect Billing,1,10.0
+99 Grill,2023-01,Incorrect Billing,2,18.2
+99 Grill,2023-01,Missing / Wrong Items,2,18.2
+99 Grill,2023-01,Taste & Flavor,2,18.2
+99 Grill,2023-01,Cleanliness,1,9.1
+99 Grill,2023-01,Delivery Speed,1,9.1
+99 Grill,2023-01,Other,1,9.1
+99 Grill,2023-01,Price / Value,1,9.1
+99 Grill,2023-01,Service,1,9.1
+99 Grill,2023-02,Cleanliness,2,13.3
+99 Grill,2023-02,Missing / Wrong Items,2,13.3
+99 Grill,2023-02,Other,2,13.3
+99 Grill,2023-02,Price / Value,2,13.3
+99 Grill,2023-02,Service,2,13.3
+99 Grill,2023-02,Taste & Flavor,2,13.3
+99 Grill,2023-02,Delivery Speed,1,6.7
+99 Grill,2023-02,Incorrect Billing,1,6.7
+99 Grill,2023-02,Portion Size,1,6.7
+99 Grill,2023-03,Portion Size,4,17.4
+99 Grill,2023-03,Taste & Flavor,4,17.4
+99 Grill,2023-03,Incorrect Billing,3,13.0
+99 Grill,2023-03,Missing / Wrong Items,3,13.0
+99 Grill,2023-03,Service,3,13.0
+99 Grill,2023-03,Other,2,8.7
+99 Grill,2023-03,Price / Value,2,8.7
+99 Grill,2023-03,Cleanliness,1,4.3
+99 Grill,2023-03,Delivery Speed,1,4.3
+99 Grill,2023-04,Incorrect Billing,2,18.2
+99 Grill,2023-04,Other,2,18.2
+99 Grill,2023-04,Cleanliness,1,9.1
+99 Grill,2023-04,Delivery Speed,1,9.1
+99 Grill,2023-04,Missing / Wrong Items,1,9.1
+99 Grill,2023-04,Portion Size,1,9.1
+99 Grill,2023-04,Price / Value,1,9.1
+99 Grill,2023-04,Service,1,9.1
+99 Grill,2023-04,Taste & Flavor,1,9.1
+99 Grill,2023-05,Cleanliness,1,10.0
+99 Grill,2023-05,Delivery Speed,1,10.0
+99 Grill,2023-05,Incorrect Billing,1,10.0
+99 Grill,2023-05,Missing / Wrong Items,1,10.0
+99 Grill,2023-05,Other,1,10.0
+99 Grill,2023-05,Packaging,1,10.0
+99 Grill,2023-05,Portion Size,1,10.0
+99 Grill,2023-05,Price / Value,1,10.0
+99 Grill,2023-05,Service,1,10.0
+99 Grill,2023-05,Taste & Flavor,1,10.0
+99 Grill,2023-06,Incorrect Billing,2,15.4
+99 Grill,2023-06,Missing / Wrong Items,2,15.4
+99 Grill,2023-06,Other,2,15.4
+99 Grill,2023-06,Service,2,15.4
+99 Grill,2023-06,Delivery Speed,1,7.7
+99 Grill,2023-06,Packaging,1,7.7
+99 Grill,2023-06,Portion Size,1,7.7
+99 Grill,2023-06,Price / Value,1,7.7
+99 Grill,2023-06,Taste & Flavor,1,7.7
+99 Grill,2023-07,Incorrect Billing,3,13.0
+99 Grill,2023-07,Missing / Wrong Items,3,13.0
+99 Grill,2023-07,Other,3,13.0
+99 Grill,2023-07,Service,3,13.0
+99 Grill,2023-07,Cleanliness,2,8.7
+99 Grill,2023-07,Delivery Speed,2,8.7
+99 Grill,2023-07,Portion Size,2,8.7
+99 Grill,2023-07,Price / Value,2,8.7
+99 Grill,2023-07,Taste & Flavor,2,8.7
+99 Grill,2023-07,Packaging,1,4.3
+99 Grill,2023-08,Cleanliness,1,10.0
+99 Grill,2023-08,Delivery Speed,1,10.0
+99 Grill,2023-08,Incorrect Billing,1,10.0
+99 Grill,2023-08,Missing / Wrong Items,1,10.0
+99 Grill,2023-08,Other,1,10.0
+99 Grill,2023-08,Packaging,1,10.0
+99 Grill,2023-08,Portion Size,1,10.0
+99 Grill,2023-08,Price / Value,1,10.0
+99 Grill,2023-08,Service,1,10.0
+99 Grill,2023-08,Taste & Flavor,1,10.0
+99 Grill,2023-09,Cleanliness,1,9.1
+99 Grill,2023-09,Delivery Speed,1,9.1
+99 Grill,2023-09,Food Temperature,1,9.1
+99 Grill,2023-09,Incorrect Billing,1,9.1
+99 Grill,2023-09,Missing / Wrong Items,1,9.1
+99 Grill,2023-09,Other,1,9.1
+99 Grill,2023-09,Packaging,1,9.1
+99 Grill,2023-09,Portion Size,1,9.1
+99 Grill,2023-09,Price / Value,1,9.1
+99 Grill,2023-09,Service,1,9.1
+99 Grill,2023-09,Taste & Flavor,1,9.1
+99 Grill,2023-11,Delivery Speed,1,11.1
+99 Grill,2023-11,Food Temperature,1,11.1
+99 Grill,2023-11,Incorrect Billing,1,11.1
+99 Grill,2023-11,Missing / Wrong Items,1,11.1
+99 Grill,2023-11,Other,1,11.1
+99 Grill,2023-11,Portion Size,1,11.1
+99 Grill,2023-11,Price / Value,1,11.1
+99 Grill,2023-11,Service,1,11.1
+99 Grill,2023-11,Taste & Flavor,1,11.1
+99 Grill,2024-01,Cleanliness,3,15.0
+99 Grill,2024-01,Missing / Wrong Items,3,15.0
+99 Grill,2024-01,Portion Size,3,15.0
+99 Grill,2024-01,Service,3,15.0
+99 Grill,2024-01,Delivery Speed,2,10.0
+99 Grill,2024-01,Incorrect Billing,2,10.0
+99 Grill,2024-01,Taste & Flavor,2,10.0
+99 Grill,2024-01,Other,1,5.0
+99 Grill,2024-01,Price / Value,1,5.0
+99 Grill,2024-02,Missing / Wrong Items,3,15.0
+99 Grill,2024-02,Portion Size,3,15.0
+99 Grill,2024-02,Taste & Flavor,3,15.0
+99 Grill,2024-02,Cleanliness,2,10.0
+99 Grill,2024-02,Delivery Speed,2,10.0
+99 Grill,2024-02,Other,2,10.0
+99 Grill,2024-02,Service,2,10.0
+99 Grill,2024-02,Food Temperature,1,5.0
+99 Grill,2024-02,Incorrect Billing,1,5.0
+99 Grill,2024-02,Price / Value,1,5.0
+99 Grill,2024-03,Cleanliness,1,11.1
+99 Grill,2024-03,Delivery Speed,1,11.1
+99 Grill,2024-03,Incorrect Billing,1,11.1
+99 Grill,2024-03,Missing / Wrong Items,1,11.1
+99 Grill,2024-03,Other,1,11.1
+99 Grill,2024-03,Portion Size,1,11.1
+99 Grill,2024-03,Price / Value,1,11.1
+99 Grill,2024-03,Service,1,11.1
+99 Grill,2024-03,Taste & Flavor,1,11.1
+99 Grill,2024-04,Cleanliness,1,10.0
+99 Grill,2024-04,Delivery Speed,1,10.0
+99 Grill,2024-04,Incorrect Billing,1,10.0
+99 Grill,2024-04,Missing / Wrong Items,1,10.0
+99 Grill,2024-04,Other,1,10.0
+99 Grill,2024-04,Packaging,1,10.0
+99 Grill,2024-04,Portion Size,1,10.0
+99 Grill,2024-04,Price / Value,1,10.0
+99 Grill,2024-04,Service,1,10.0
+99 Grill,2024-04,Taste & Flavor,1,10.0
+99 Grill,2024-05,Missing / Wrong Items,7,15.2
+99 Grill,2024-05,Portion Size,6,13.0
+99 Grill,2024-05,Service,5,10.9
+99 Grill,2024-05,Taste & Flavor,5,10.9
+99 Grill,2024-05,Cleanliness,4,8.7
+99 Grill,2024-05,Delivery Speed,4,8.7
+99 Grill,2024-05,Incorrect Billing,4,8.7
+99 Grill,2024-05,Other,4,8.7
+99 Grill,2024-05,Price / Value,4,8.7
+99 Grill,2024-05,Food Temperature,2,4.3
+99 Grill,2024-05,Packaging,1,2.2
+99 Grill,2024-06,Missing / Wrong Items,9,14.8
+99 Grill,2024-06,Service,8,13.1
+99 Grill,2024-06,Taste & Flavor,8,13.1
+99 Grill,2024-06,Incorrect Billing,7,11.5
+99 Grill,2024-06,Cleanliness,6,9.8
+99 Grill,2024-06,Other,6,9.8
+99 Grill,2024-06,Portion Size,6,9.8
+99 Grill,2024-06,Delivery Speed,5,8.2
+99 Grill,2024-06,Price / Value,4,6.6
+99 Grill,2024-06,Food Temperature,2,3.3
+99 Grill,2024-07,Missing / Wrong Items,8,13.1
+99 Grill,2024-07,Portion Size,8,13.1
+99 Grill,2024-07,Service,7,11.5
+99 Grill,2024-07,Taste & Flavor,7,11.5
+99 Grill,2024-07,Incorrect Billing,6,9.8
+99 Grill,2024-07,Price / Value,6,9.8
+99 Grill,2024-07,Cleanliness,5,8.2
+99 Grill,2024-07,Delivery Speed,5,8.2
+99 Grill,2024-07,Other,5,8.2
+99 Grill,2024-07,Packaging,3,4.9
+99 Grill,2024-07,Food Temperature,1,1.6
+99 Grill,2024-08,Missing / Wrong Items,7,13.5
+99 Grill,2024-08,Taste & Flavor,7,13.5
+99 Grill,2024-08,Portion Size,6,11.5
+99 Grill,2024-08,Service,6,11.5
+99 Grill,2024-08,Cleanliness,5,9.6
+99 Grill,2024-08,Delivery Speed,5,9.6
+99 Grill,2024-08,Incorrect Billing,5,9.6
+99 Grill,2024-08,Other,5,9.6
+99 Grill,2024-08,Price / Value,4,7.7
+99 Grill,2024-08,Food Temperature,1,1.9
+99 Grill,2024-08,Packaging,1,1.9
+99 Grill,2024-09,Delivery Speed,2,11.8
+99 Grill,2024-09,Incorrect Billing,2,11.8
+99 Grill,2024-09,Missing / Wrong Items,2,11.8
+99 Grill,2024-09,Other,2,11.8
+99 Grill,2024-09,Portion Size,2,11.8
+99 Grill,2024-09,Service,2,11.8
+99 Grill,2024-09,Taste & Flavor,2,11.8
+99 Grill,2024-09,Cleanliness,1,5.9
+99 Grill,2024-09,Packaging,1,5.9
+99 Grill,2024-09,Price / Value,1,5.9
+99 Grill,2024-10,Missing / Wrong Items,8,14.5
+99 Grill,2024-10,Portion Size,7,12.7
+99 Grill,2024-10,Taste & Flavor,7,12.7
+99 Grill,2024-10,Incorrect Billing,6,10.9
+99 Grill,2024-10,Service,6,10.9
+99 Grill,2024-10,Other,5,9.1
+99 Grill,2024-10,Price / Value,5,9.1
+99 Grill,2024-10,Cleanliness,4,7.3
+99 Grill,2024-10,Delivery Speed,4,7.3
+99 Grill,2024-10,Food Temperature,3,5.5
+99 Grill,2024-11,Missing / Wrong Items,11,16.7
+99 Grill,2024-11,Taste & Flavor,9,13.6
+99 Grill,2024-11,Service,8,12.1
+99 Grill,2024-11,Incorrect Billing,7,10.6
+99 Grill,2024-11,Other,7,10.6
+99 Grill,2024-11,Portion Size,7,10.6
+99 Grill,2024-11,Cleanliness,6,9.1
+99 Grill,2024-11,Delivery Speed,6,9.1
+99 Grill,2024-11,Price / Value,4,6.1
+99 Grill,2024-11,Food Temperature,1,1.5
+99 Grill,2024-12,Missing / Wrong Items,6,15.4
+99 Grill,2024-12,Taste & Flavor,6,15.4
+99 Grill,2024-12,Incorrect Billing,4,10.3
+99 Grill,2024-12,Portion Size,4,10.3
+99 Grill,2024-12,Service,4,10.3
+99 Grill,2024-12,Delivery Speed,3,7.7
+99 Grill,2024-12,Other,3,7.7
+99 Grill,2024-12,Price / Value,3,7.7
+99 Grill,2024-12,Cleanliness,2,5.1
+99 Grill,2024-12,Food Temperature,2,5.1
+99 Grill,2024-12,Packaging,2,5.1
+99 Grill,2025-01,Missing / Wrong Items,14,12.5
+99 Grill,2025-01,Cleanliness,13,11.6
+99 Grill,2025-01,Service,13,11.6
+99 Grill,2025-01,Taste & Flavor,13,11.6
+99 Grill,2025-01,Other,12,10.7
+99 Grill,2025-01,Portion Size,12,10.7
+99 Grill,2025-01,Price / Value,12,10.7
+99 Grill,2025-01,Delivery Speed,11,9.8
+99 Grill,2025-01,Incorrect Billing,10,8.9
+99 Grill,2025-01,Packaging,2,1.8
+99 Grill,2025-02,Incorrect Billing,2,12.5
+99 Grill,2025-02,Missing / Wrong Items,2,12.5
+99 Grill,2025-02,Portion Size,2,12.5
+99 Grill,2025-02,Service,2,12.5
+99 Grill,2025-02,Taste & Flavor,2,12.5
+99 Grill,2025-02,Cleanliness,1,6.2
+99 Grill,2025-02,Delivery Speed,1,6.2
+99 Grill,2025-02,Food Temperature,1,6.2
+99 Grill,2025-02,Other,1,6.2
+99 Grill,2025-02,Packaging,1,6.2
+99 Grill,2025-02,Price / Value,1,6.2
+99 Grill,2025-03,Cleanliness,2,11.1
+99 Grill,2025-03,Delivery Speed,2,11.1
+99 Grill,2025-03,Missing / Wrong Items,2,11.1
+99 Grill,2025-03,Other,2,11.1
+99 Grill,2025-03,Portion Size,2,11.1
+99 Grill,2025-03,Price / Value,2,11.1
+99 Grill,2025-03,Service,2,11.1
+99 Grill,2025-03,Taste & Flavor,2,11.1
+99 Grill,2025-03,Food Temperature,1,5.6
+99 Grill,2025-03,Incorrect Billing,1,5.6
+99 Grill,2025-04,Missing / Wrong Items,8,16.7
+99 Grill,2025-04,Service,6,12.5
+99 Grill,2025-04,Taste & Flavor,6,12.5
+99 Grill,2025-04,Cleanliness,5,10.4
+99 Grill,2025-04,Incorrect Billing,5,10.4
+99 Grill,2025-04,Portion Size,5,10.4
+99 Grill,2025-04,Price / Value,5,10.4
+99 Grill,2025-04,Delivery Speed,4,8.3
+99 Grill,2025-04,Other,4,8.3
+99 Grill,2025-05,Missing / Wrong Items,10,15.2
+99 Grill,2025-05,Service,9,13.6
+99 Grill,2025-05,Taste & Flavor,8,12.1
+99 Grill,2025-05,Incorrect Billing,7,10.6
+99 Grill,2025-05,Cleanliness,6,9.1
+99 Grill,2025-05,Delivery Speed,6,9.1
+99 Grill,2025-05,Other,6,9.1
+99 Grill,2025-05,Portion Size,5,7.6
+99 Grill,2025-05,Price / Value,5,7.6
+99 Grill,2025-05,Food Temperature,3,4.5
+99 Grill,2025-05,Packaging,1,1.5
+99 Grill,2025-06,Missing / Wrong Items,13,13.5
+99 Grill,2025-06,Taste & Flavor,12,12.5
+99 Grill,2025-06,Incorrect Billing,11,11.5
+99 Grill,2025-06,Portion Size,11,11.5
+99 Grill,2025-06,Service,11,11.5
+99 Grill,2025-06,Other,10,10.4
+99 Grill,2025-06,Price / Value,8,8.3
+99 Grill,2025-06,Cleanliness,7,7.3
+99 Grill,2025-06,Delivery Speed,7,7.3
+99 Grill,2025-06,Food Temperature,4,4.2
+99 Grill,2025-06,Packaging,2,2.1
+99 Grill,2025-07,Missing / Wrong Items,7,14.0
+99 Grill,2025-07,Portion Size,7,14.0
+99 Grill,2025-07,Taste & Flavor,7,14.0
+99 Grill,2025-07,Cleanliness,6,12.0
+99 Grill,2025-07,Service,6,12.0
+99 Grill,2025-07,Delivery Speed,4,8.0
+99 Grill,2025-07,Incorrect Billing,4,8.0
+99 Grill,2025-07,Price / Value,4,8.0
+99 Grill,2025-07,Other,3,6.0
+99 Grill,2025-07,Packaging,2,4.0
+99 Grill,2025-08,Taste & Flavor,5,15.2
+99 Grill,2025-08,Incorrect Billing,4,12.1
+99 Grill,2025-08,Missing / Wrong Items,4,12.1
+99 Grill,2025-08,Other,4,12.1
+99 Grill,2025-08,Service,4,12.1
+99 Grill,2025-08,Cleanliness,3,9.1
+99 Grill,2025-08,Delivery Speed,3,9.1
+99 Grill,2025-08,Portion Size,3,9.1
+99 Grill,2025-08,Price / Value,3,9.1
+99 Grill,2025-09,Incorrect Billing,4,13.3
+99 Grill,2025-09,Missing / Wrong Items,4,13.3
+99 Grill,2025-09,Portion Size,4,13.3
+99 Grill,2025-09,Service,4,13.3
+99 Grill,2025-09,Taste & Flavor,4,13.3
+99 Grill,2025-09,Cleanliness,3,10.0
+99 Grill,2025-09,Other,3,10.0
+99 Grill,2025-09,Delivery Speed,2,6.7
+99 Grill,2025-09,Price / Value,2,6.7
+99 Grill,2025-10,Cleanliness,6,13.6
+99 Grill,2025-10,Missing / Wrong Items,6,13.6
+99 Grill,2025-10,Service,6,13.6
+99 Grill,2025-10,Taste & Flavor,6,13.6
+99 Grill,2025-10,Delivery Speed,5,11.4
+99 Grill,2025-10,Other,5,11.4
+99 Grill,2025-10,Price / Value,4,9.1
+99 Grill,2025-10,Portion Size,3,6.8
+99 Grill,2025-10,Incorrect Billing,2,4.5
+99 Grill,2025-10,Packaging,1,2.3
+99 Grill,2025-11,Taste & Flavor,6,14.6
+99 Grill,2025-11,Missing / Wrong Items,5,12.2
+99 Grill,2025-11,Other,5,12.2
+99 Grill,2025-11,Service,5,12.2
+99 Grill,2025-11,Cleanliness,4,9.8
+99 Grill,2025-11,Delivery Speed,4,9.8
+99 Grill,2025-11,Incorrect Billing,4,9.8
+99 Grill,2025-11,Portion Size,4,9.8
+99 Grill,2025-11,Price / Value,4,9.8
+Between Buns,2023-09,Cleanliness,1,14.3
+Between Buns,2023-09,Delivery Speed,1,14.3
+Between Buns,2023-09,Missing / Wrong Items,1,14.3
+Between Buns,2023-09,Other,1,14.3
+Between Buns,2023-09,Price / Value,1,14.3
+Between Buns,2023-09,Service,1,14.3
+Between Buns,2023-09,Taste & Flavor,1,14.3
+Between Buns,2024-04,Incorrect Billing,1,25.0
+Between Buns,2024-04,Missing / Wrong Items,1,25.0
+Between Buns,2024-04,Portion Size,1,25.0
+Between Buns,2024-04,Taste & Flavor,1,25.0
+Between Buns,2024-07,Cleanliness,1,12.5
+Between Buns,2024-07,Delivery Speed,1,12.5
+Between Buns,2024-07,Incorrect Billing,1,12.5
+Between Buns,2024-07,Missing / Wrong Items,1,12.5
+Between Buns,2024-07,Other,1,12.5
+Between Buns,2024-07,Portion Size,1,12.5
+Between Buns,2024-07,Price / Value,1,12.5
+Between Buns,2024-07,Service,1,12.5
+Between Buns,2025-01,Food Temperature,1,16.7
+Between Buns,2025-01,Incorrect Billing,1,16.7
+Between Buns,2025-01,Missing / Wrong Items,1,16.7
+Between Buns,2025-01,Packaging,1,16.7
+Between Buns,2025-01,Portion Size,1,16.7
+Between Buns,2025-01,Service,1,16.7
+Between Buns,2025-02,Portion Size,1,50.0
+Between Buns,2025-02,Taste & Flavor,1,50.0
+Between Buns,2025-08,Cleanliness,1,10.0
+Between Buns,2025-08,Delivery Speed,1,10.0
+Between Buns,2025-08,Incorrect Billing,1,10.0
+Between Buns,2025-08,Missing / Wrong Items,1,10.0
+Between Buns,2025-08,Other,1,10.0
+Between Buns,2025-08,Packaging,1,10.0
+Between Buns,2025-08,Portion Size,1,10.0
+Between Buns,2025-08,Price / Value,1,10.0
+Between Buns,2025-08,Service,1,10.0
+Between Buns,2025-08,Taste & Flavor,1,10.0
+Between Buns,2025-09,Incorrect Billing,1,16.7
+Between Buns,2025-09,Missing / Wrong Items,1,16.7
+Between Buns,2025-09,Packaging,1,16.7
+Between Buns,2025-09,Portion Size,1,16.7
+Between Buns,2025-09,Service,1,16.7
+Between Buns,2025-09,Taste & Flavor,1,16.7
+Buffalo Wings Rings,2022-02,Incorrect Billing,3,15.0
+Buffalo Wings Rings,2022-02,Missing / Wrong Items,3,15.0
+Buffalo Wings Rings,2022-02,Portion Size,3,15.0
+Buffalo Wings Rings,2022-02,Price / Value,3,15.0
+Buffalo Wings Rings,2022-02,Other,2,10.0
+Buffalo Wings Rings,2022-02,Packaging,2,10.0
+Buffalo Wings Rings,2022-02,Taste & Flavor,2,10.0
+Buffalo Wings Rings,2022-02,Delivery Speed,1,5.0
+Buffalo Wings Rings,2022-02,Service,1,5.0
+Buffalo Wings Rings,2022-04,Missing / Wrong Items,3,20.0
+Buffalo Wings Rings,2022-04,Incorrect Billing,2,13.3
+Buffalo Wings Rings,2022-04,Other,2,13.3
+Buffalo Wings Rings,2022-04,Portion Size,2,13.3
+Buffalo Wings Rings,2022-04,Price / Value,2,13.3
+Buffalo Wings Rings,2022-04,Cleanliness,1,6.7
+Buffalo Wings Rings,2022-04,Delivery Speed,1,6.7
+Buffalo Wings Rings,2022-04,Service,1,6.7
+Buffalo Wings Rings,2022-04,Taste & Flavor,1,6.7
+Buffalo Wings Rings,2022-11,Cleanliness,1,11.1
+Buffalo Wings Rings,2022-11,Delivery Speed,1,11.1
+Buffalo Wings Rings,2022-11,Incorrect Billing,1,11.1
+Buffalo Wings Rings,2022-11,Missing / Wrong Items,1,11.1
+Buffalo Wings Rings,2022-11,Other,1,11.1
+Buffalo Wings Rings,2022-11,Portion Size,1,11.1
+Buffalo Wings Rings,2022-11,Price / Value,1,11.1
+Buffalo Wings Rings,2022-11,Service,1,11.1
+Buffalo Wings Rings,2022-11,Taste & Flavor,1,11.1
+Buffalo Wings Rings,2023-03,Incorrect Billing,2,14.3
+Buffalo Wings Rings,2023-03,Missing / Wrong Items,2,14.3
+Buffalo Wings Rings,2023-03,Portion Size,2,14.3
+Buffalo Wings Rings,2023-03,Price / Value,2,14.3
+Buffalo Wings Rings,2023-03,Cleanliness,1,7.1
+Buffalo Wings Rings,2023-03,Delivery Speed,1,7.1
+Buffalo Wings Rings,2023-03,Other,1,7.1
+Buffalo Wings Rings,2023-03,Packaging,1,7.1
+Buffalo Wings Rings,2023-03,Service,1,7.1
+Buffalo Wings Rings,2023-03,Taste & Flavor,1,7.1
+Buffalo Wings Rings,2023-05,Cleanliness,1,10.0
+Buffalo Wings Rings,2023-05,Delivery Speed,1,10.0
+Buffalo Wings Rings,2023-05,Incorrect Billing,1,10.0
+Buffalo Wings Rings,2023-05,Missing / Wrong Items,1,10.0
+Buffalo Wings Rings,2023-05,Other,1,10.0
+Buffalo Wings Rings,2023-05,Packaging,1,10.0
+Buffalo Wings Rings,2023-05,Portion Size,1,10.0
+Buffalo Wings Rings,2023-05,Price / Value,1,10.0
+Buffalo Wings Rings,2023-05,Service,1,10.0
+Buffalo Wings Rings,2023-05,Taste & Flavor,1,10.0
+Buffalo Wings Rings,2024-01,Cleanliness,1,12.5
+Buffalo Wings Rings,2024-01,Delivery Speed,1,12.5
+Buffalo Wings Rings,2024-01,Incorrect Billing,1,12.5
+Buffalo Wings Rings,2024-01,Missing / Wrong Items,1,12.5
+Buffalo Wings Rings,2024-01,Portion Size,1,12.5
+Buffalo Wings Rings,2024-01,Price / Value,1,12.5
+Buffalo Wings Rings,2024-01,Service,1,12.5
+Buffalo Wings Rings,2024-01,Taste & Flavor,1,12.5
+Buffalo Wings Rings,2024-06,Cleanliness,1,11.1
+Buffalo Wings Rings,2024-06,Delivery Speed,1,11.1
+Buffalo Wings Rings,2024-06,Incorrect Billing,1,11.1
+Buffalo Wings Rings,2024-06,Missing / Wrong Items,1,11.1
+Buffalo Wings Rings,2024-06,Other,1,11.1
+Buffalo Wings Rings,2024-06,Portion Size,1,11.1
+Buffalo Wings Rings,2024-06,Price / Value,1,11.1
+Buffalo Wings Rings,2024-06,Service,1,11.1
+Buffalo Wings Rings,2024-06,Taste & Flavor,1,11.1
+Buffalo Wings Rings,2024-07,Food Temperature,1,20.0
+Buffalo Wings Rings,2024-07,Incorrect Billing,1,20.0
+Buffalo Wings Rings,2024-07,Missing / Wrong Items,1,20.0
+Buffalo Wings Rings,2024-07,Portion Size,1,20.0
+Buffalo Wings Rings,2024-07,Taste & Flavor,1,20.0
+Buffalo Wings Rings,2024-08,Incorrect Billing,2,20.0
+Buffalo Wings Rings,2024-08,Missing / Wrong Items,2,20.0
+Buffalo Wings Rings,2024-08,Portion Size,2,20.0
+Buffalo Wings Rings,2024-08,Taste & Flavor,2,20.0
+Buffalo Wings Rings,2024-08,Other,1,10.0
+Buffalo Wings Rings,2024-08,Service,1,10.0
+Buffalo Wings Rings,2024-10,Cleanliness,1,12.5
+Buffalo Wings Rings,2024-10,Incorrect Billing,1,12.5
+Buffalo Wings Rings,2024-10,Missing / Wrong Items,1,12.5
+Buffalo Wings Rings,2024-10,Other,1,12.5
+Buffalo Wings Rings,2024-10,Portion Size,1,12.5
+Buffalo Wings Rings,2024-10,Price / Value,1,12.5
+Buffalo Wings Rings,2024-10,Service,1,12.5
+Buffalo Wings Rings,2024-10,Taste & Flavor,1,12.5
+Buffalo Wings Rings,2025-02,Missing / Wrong Items,9,16.4
+Buffalo Wings Rings,2025-02,Taste & Flavor,8,14.5
+Buffalo Wings Rings,2025-02,Service,7,12.7
+Buffalo Wings Rings,2025-02,Cleanliness,5,9.1
+Buffalo Wings Rings,2025-02,Delivery Speed,5,9.1
+Buffalo Wings Rings,2025-02,Incorrect Billing,5,9.1
+Buffalo Wings Rings,2025-02,Other,5,9.1
+Buffalo Wings Rings,2025-02,Price / Value,5,9.1
+Buffalo Wings Rings,2025-02,Portion Size,4,7.3
+Buffalo Wings Rings,2025-02,Packaging,2,3.6
+Buffalo Wings Rings,2025-03,Cleanliness,5,12.8
+Buffalo Wings Rings,2025-03,Delivery Speed,5,12.8
+Buffalo Wings Rings,2025-03,Missing / Wrong Items,5,12.8
+Buffalo Wings Rings,2025-03,Service,5,12.8
+Buffalo Wings Rings,2025-03,Taste & Flavor,5,12.8
+Buffalo Wings Rings,2025-03,Price / Value,4,10.3
+Buffalo Wings Rings,2025-03,Other,3,7.7
+Buffalo Wings Rings,2025-03,Portion Size,3,7.7
+Buffalo Wings Rings,2025-03,Incorrect Billing,2,5.1
+Buffalo Wings Rings,2025-03,Food Temperature,1,2.6
+Buffalo Wings Rings,2025-03,Packaging,1,2.6
+Buffalo Wings Rings,2025-04,Portion Size,2,15.4
+Buffalo Wings Rings,2025-04,Service,2,15.4
+Buffalo Wings Rings,2025-04,Cleanliness,1,7.7
+Buffalo Wings Rings,2025-04,Delivery Speed,1,7.7
+Buffalo Wings Rings,2025-04,Food Temperature,1,7.7
+Buffalo Wings Rings,2025-04,Incorrect Billing,1,7.7
+Buffalo Wings Rings,2025-04,Missing / Wrong Items,1,7.7
+Buffalo Wings Rings,2025-04,Other,1,7.7
+Buffalo Wings Rings,2025-04,Packaging,1,7.7
+Buffalo Wings Rings,2025-04,Price / Value,1,7.7
+Buffalo Wings Rings,2025-04,Taste & Flavor,1,7.7
+Buffalo Wings Rings,2025-06,Cleanliness,1,12.5
+Buffalo Wings Rings,2025-06,Delivery Speed,1,12.5
+Buffalo Wings Rings,2025-06,Missing / Wrong Items,1,12.5
+Buffalo Wings Rings,2025-06,Other,1,12.5
+Buffalo Wings Rings,2025-06,Portion Size,1,12.5
+Buffalo Wings Rings,2025-06,Price / Value,1,12.5
+Buffalo Wings Rings,2025-06,Service,1,12.5
+Buffalo Wings Rings,2025-06,Taste & Flavor,1,12.5
+Buffalo Wings Rings,2025-08,Delivery Speed,5,12.2
+Buffalo Wings Rings,2025-08,Missing / Wrong Items,5,12.2
+Buffalo Wings Rings,2025-08,Other,5,12.2
+Buffalo Wings Rings,2025-08,Price / Value,5,12.2
+Buffalo Wings Rings,2025-08,Service,5,12.2
+Buffalo Wings Rings,2025-08,Cleanliness,4,9.8
+Buffalo Wings Rings,2025-08,Portion Size,4,9.8
+Buffalo Wings Rings,2025-08,Taste & Flavor,4,9.8
+Buffalo Wings Rings,2025-08,Incorrect Billing,3,7.3
+Buffalo Wings Rings,2025-08,Packaging,1,2.4
+Buffalo Wings Rings,2025-09,Incorrect Billing,2,13.3
+Buffalo Wings Rings,2025-09,Missing / Wrong Items,2,13.3
+Buffalo Wings Rings,2025-09,Portion Size,2,13.3
+Buffalo Wings Rings,2025-09,Taste & Flavor,2,13.3
+Buffalo Wings Rings,2025-09,Cleanliness,1,6.7
+Buffalo Wings Rings,2025-09,Delivery Speed,1,6.7
+Buffalo Wings Rings,2025-09,Food Temperature,1,6.7
+Buffalo Wings Rings,2025-09,Other,1,6.7
+Buffalo Wings Rings,2025-09,Packaging,1,6.7
+Buffalo Wings Rings,2025-09,Price / Value,1,6.7
+Buffalo Wings Rings,2025-09,Service,1,6.7
+Buffalo Wings Rings,2025-10,Missing / Wrong Items,3,18.8
+Buffalo Wings Rings,2025-10,Other,3,18.8
+Buffalo Wings Rings,2025-10,Service,2,12.5
+Buffalo Wings Rings,2025-10,Taste & Flavor,2,12.5
+Buffalo Wings Rings,2025-10,Cleanliness,1,6.2
+Buffalo Wings Rings,2025-10,Delivery Speed,1,6.2
+Buffalo Wings Rings,2025-10,Incorrect Billing,1,6.2
+Buffalo Wings Rings,2025-10,Packaging,1,6.2
+Buffalo Wings Rings,2025-10,Portion Size,1,6.2
+Buffalo Wings Rings,2025-10,Price / Value,1,6.2
+Buffalo Wings Rings,2025-11,Cleanliness,1,11.1
+Buffalo Wings Rings,2025-11,Delivery Speed,1,11.1
+Buffalo Wings Rings,2025-11,Incorrect Billing,1,11.1
+Buffalo Wings Rings,2025-11,Missing / Wrong Items,1,11.1
+Buffalo Wings Rings,2025-11,Other,1,11.1
+Buffalo Wings Rings,2025-11,Portion Size,1,11.1
+Buffalo Wings Rings,2025-11,Price / Value,1,11.1
+Buffalo Wings Rings,2025-11,Service,1,11.1
+Buffalo Wings Rings,2025-11,Taste & Flavor,1,11.1
+Burger Maker,2022-08,Missing / Wrong Items,5,13.9
+Burger Maker,2022-08,Price / Value,5,13.9
+Burger Maker,2022-08,Cleanliness,4,11.1
+Burger Maker,2022-08,Delivery Speed,4,11.1
+Burger Maker,2022-08,Other,4,11.1
+Burger Maker,2022-08,Service,4,11.1
+Burger Maker,2022-08,Taste & Flavor,4,11.1
+Burger Maker,2022-08,Incorrect Billing,3,8.3
+Burger Maker,2022-08,Portion Size,3,8.3
+Burger Maker,2022-09,Missing / Wrong Items,6,17.1
+Burger Maker,2022-09,Taste & Flavor,6,17.1
+Burger Maker,2022-09,Incorrect Billing,5,14.3
+Burger Maker,2022-09,Portion Size,5,14.3
+Burger Maker,2022-09,Cleanliness,3,8.6
+Burger Maker,2022-09,Other,3,8.6
+Burger Maker,2022-09,Service,3,8.6
+Burger Maker,2022-09,Delivery Speed,2,5.7
+Burger Maker,2022-09,Food Temperature,1,2.9
+Burger Maker,2022-09,Price / Value,1,2.9
+Burger Maker,2022-10,Cleanliness,2,11.8
+Burger Maker,2022-10,Delivery Speed,2,11.8
+Burger Maker,2022-10,Missing / Wrong Items,2,11.8
+Burger Maker,2022-10,Other,2,11.8
+Burger Maker,2022-10,Price / Value,2,11.8
+Burger Maker,2022-10,Service,2,11.8
+Burger Maker,2022-10,Taste & Flavor,2,11.8
+Burger Maker,2022-10,Incorrect Billing,1,5.9
+Burger Maker,2022-10,Packaging,1,5.9
+Burger Maker,2022-10,Portion Size,1,5.9
+Burger Maker,2022-11,Missing / Wrong Items,11,12.9
+Burger Maker,2022-11,Incorrect Billing,10,11.8
+Burger Maker,2022-11,Portion Size,10,11.8
+Burger Maker,2022-11,Service,10,11.8
+Burger Maker,2022-11,Other,9,10.6
+Burger Maker,2022-11,Taste & Flavor,9,10.6
+Burger Maker,2022-11,Price / Value,8,9.4
+Burger Maker,2022-11,Cleanliness,6,7.1
+Burger Maker,2022-11,Delivery Speed,6,7.1
+Burger Maker,2022-11,Food Temperature,3,3.5
+Burger Maker,2022-11,Packaging,3,3.5
+Burger Maker,2022-12,Missing / Wrong Items,12,11.9
+Burger Maker,2022-12,Service,12,11.9
+Burger Maker,2022-12,Taste & Flavor,12,11.9
+Burger Maker,2022-12,Cleanliness,11,10.9
+Burger Maker,2022-12,Incorrect Billing,11,10.9
+Burger Maker,2022-12,Portion Size,11,10.9
+Burger Maker,2022-12,Delivery Speed,10,9.9
+Burger Maker,2022-12,Other,10,9.9
+Burger Maker,2022-12,Price / Value,10,9.9
+Burger Maker,2022-12,Food Temperature,1,1.0
+Burger Maker,2022-12,Packaging,1,1.0
+Burger Maker,2023-01,Cleanliness,8,11.4
+Burger Maker,2023-01,Missing / Wrong Items,8,11.4
+Burger Maker,2023-01,Other,8,11.4
+Burger Maker,2023-01,Price / Value,8,11.4
+Burger Maker,2023-01,Service,8,11.4
+Burger Maker,2023-01,Taste & Flavor,8,11.4
+Burger Maker,2023-01,Delivery Speed,6,8.6
+Burger Maker,2023-01,Incorrect Billing,6,8.6
+Burger Maker,2023-01,Portion Size,6,8.6
+Burger Maker,2023-01,Packaging,4,5.7
+Burger Maker,2023-02,Missing / Wrong Items,5,13.5
+Burger Maker,2023-02,Portion Size,5,13.5
+Burger Maker,2023-02,Incorrect Billing,4,10.8
+Burger Maker,2023-02,Other,4,10.8
+Burger Maker,2023-02,Service,4,10.8
+Burger Maker,2023-02,Taste & Flavor,4,10.8
+Burger Maker,2023-02,Delivery Speed,3,8.1
+Burger Maker,2023-02,Price / Value,3,8.1
+Burger Maker,2023-02,Cleanliness,2,5.4
+Burger Maker,2023-02,Food Temperature,2,5.4
+Burger Maker,2023-02,Packaging,1,2.7
+Burger Maker,2023-03,Delivery Speed,6,11.8
+Burger Maker,2023-03,Missing / Wrong Items,6,11.8
+Burger Maker,2023-03,Other,6,11.8
+Burger Maker,2023-03,Price / Value,6,11.8
+Burger Maker,2023-03,Service,6,11.8
+Burger Maker,2023-03,Portion Size,5,9.8
+Burger Maker,2023-03,Taste & Flavor,5,9.8
+Burger Maker,2023-03,Cleanliness,4,7.8
+Burger Maker,2023-03,Incorrect Billing,4,7.8
+Burger Maker,2023-03,Packaging,2,3.9
+Burger Maker,2023-03,Food Temperature,1,2.0
+Burger Maker,2023-04,Cleanliness,10,13.3
+Burger Maker,2023-04,Missing / Wrong Items,10,13.3
+Burger Maker,2023-04,Delivery Speed,9,12.0
+Burger Maker,2023-04,Service,9,12.0
+Burger Maker,2023-04,Taste & Flavor,9,12.0
+Burger Maker,2023-04,Other,8,10.7
+Burger Maker,2023-04,Price / Value,8,10.7
+Burger Maker,2023-04,Incorrect Billing,6,8.0
+Burger Maker,2023-04,Portion Size,6,8.0
+Burger Maker,2023-05,Other,3,16.7
+Burger Maker,2023-05,Taste & Flavor,3,16.7
+Burger Maker,2023-05,Cleanliness,2,11.1
+Burger Maker,2023-05,Delivery Speed,2,11.1
+Burger Maker,2023-05,Missing / Wrong Items,2,11.1
+Burger Maker,2023-05,Portion Size,2,11.1
+Burger Maker,2023-05,Service,2,11.1
+Burger Maker,2023-05,Incorrect Billing,1,5.6
+Burger Maker,2023-05,Price / Value,1,5.6
+Burger Maker,2023-06,Missing / Wrong Items,8,14.5
+Burger Maker,2023-06,Taste & Flavor,7,12.7
+Burger Maker,2023-06,Incorrect Billing,6,10.9
+Burger Maker,2023-06,Portion Size,6,10.9
+Burger Maker,2023-06,Service,6,10.9
+Burger Maker,2023-06,Cleanliness,5,9.1
+Burger Maker,2023-06,Delivery Speed,5,9.1
+Burger Maker,2023-06,Price / Value,5,9.1
+Burger Maker,2023-06,Other,4,7.3
+Burger Maker,2023-06,Food Temperature,2,3.6
+Burger Maker,2023-06,Packaging,1,1.8
+Burger Maker,2023-07,Cleanliness,2,13.3
+Burger Maker,2023-07,Delivery Speed,2,13.3
+Burger Maker,2023-07,Missing / Wrong Items,2,13.3
+Burger Maker,2023-07,Other,2,13.3
+Burger Maker,2023-07,Service,2,13.3
+Burger Maker,2023-07,Taste & Flavor,2,13.3
+Burger Maker,2023-07,Incorrect Billing,1,6.7
+Burger Maker,2023-07,Packaging,1,6.7
+Burger Maker,2023-07,Portion Size,1,6.7
+Burger Maker,2023-08,Missing / Wrong Items,5,13.5
+Burger Maker,2023-08,Other,5,13.5
+Burger Maker,2023-08,Cleanliness,4,10.8
+Burger Maker,2023-08,Incorrect Billing,4,10.8
+Burger Maker,2023-08,Price / Value,4,10.8
+Burger Maker,2023-08,Service,4,10.8
+Burger Maker,2023-08,Taste & Flavor,4,10.8
+Burger Maker,2023-08,Delivery Speed,3,8.1
+Burger Maker,2023-08,Portion Size,3,8.1
+Burger Maker,2023-08,Food Temperature,1,2.7
+Burger Maker,2023-09,Cleanliness,3,13.6
+Burger Maker,2023-09,Missing / Wrong Items,3,13.6
+Burger Maker,2023-09,Other,3,13.6
+Burger Maker,2023-09,Service,3,13.6
+Burger Maker,2023-09,Taste & Flavor,3,13.6
+Burger Maker,2023-09,Delivery Speed,2,9.1
+Burger Maker,2023-09,Incorrect Billing,2,9.1
+Burger Maker,2023-09,Portion Size,2,9.1
+Burger Maker,2023-09,Price / Value,1,4.5
+Burger Maker,2023-10,Missing / Wrong Items,3,15.0
+Burger Maker,2023-10,Service,3,15.0
+Burger Maker,2023-10,Cleanliness,2,10.0
+Burger Maker,2023-10,Delivery Speed,2,10.0
+Burger Maker,2023-10,Incorrect Billing,2,10.0
+Burger Maker,2023-10,Other,2,10.0
+Burger Maker,2023-10,Portion Size,2,10.0
+Burger Maker,2023-10,Taste & Flavor,2,10.0
+Burger Maker,2023-10,Food Temperature,1,5.0
+Burger Maker,2023-10,Price / Value,1,5.0
+Burger Maker,2023-11,Cleanliness,1,12.5
+Burger Maker,2023-11,Delivery Speed,1,12.5
+Burger Maker,2023-11,Incorrect Billing,1,12.5
+Burger Maker,2023-11,Missing / Wrong Items,1,12.5
+Burger Maker,2023-11,Portion Size,1,12.5
+Burger Maker,2023-11,Price / Value,1,12.5
+Burger Maker,2023-11,Service,1,12.5
+Burger Maker,2023-11,Taste & Flavor,1,12.5
+Burger Maker,2023-12,Cleanliness,1,11.1
+Burger Maker,2023-12,Delivery Speed,1,11.1
+Burger Maker,2023-12,Incorrect Billing,1,11.1
+Burger Maker,2023-12,Missing / Wrong Items,1,11.1
+Burger Maker,2023-12,Other,1,11.1
+Burger Maker,2023-12,Portion Size,1,11.1
+Burger Maker,2023-12,Price / Value,1,11.1
+Burger Maker,2023-12,Service,1,11.1
+Burger Maker,2023-12,Taste & Flavor,1,11.1
+Burger Maker,2024-01,Cleanliness,1,11.1
+Burger Maker,2024-01,Delivery Speed,1,11.1
+Burger Maker,2024-01,Incorrect Billing,1,11.1
+Burger Maker,2024-01,Missing / Wrong Items,1,11.1
+Burger Maker,2024-01,Other,1,11.1
+Burger Maker,2024-01,Portion Size,1,11.1
+Burger Maker,2024-01,Price / Value,1,11.1
+Burger Maker,2024-01,Service,1,11.1
+Burger Maker,2024-01,Taste & Flavor,1,11.1
+Burger Maker,2024-02,Cleanliness,3,11.1
+Burger Maker,2024-02,Delivery Speed,3,11.1
+Burger Maker,2024-02,Incorrect Billing,3,11.1
+Burger Maker,2024-02,Missing / Wrong Items,3,11.1
+Burger Maker,2024-02,Other,3,11.1
+Burger Maker,2024-02,Portion Size,3,11.1
+Burger Maker,2024-02,Price / Value,3,11.1
+Burger Maker,2024-02,Service,3,11.1
+Burger Maker,2024-02,Taste & Flavor,3,11.1
+Burger Maker,2024-03,Missing / Wrong Items,4,14.3
+Burger Maker,2024-03,Portion Size,4,14.3
+Burger Maker,2024-03,Incorrect Billing,3,10.7
+Burger Maker,2024-03,Other,3,10.7
+Burger Maker,2024-03,Price / Value,3,10.7
+Burger Maker,2024-03,Service,3,10.7
+Burger Maker,2024-03,Taste & Flavor,3,10.7
+Burger Maker,2024-03,Cleanliness,2,7.1
+Burger Maker,2024-03,Delivery Speed,2,7.1
+Burger Maker,2024-03,Food Temperature,1,3.6
+Burger Maker,2024-04,Missing / Wrong Items,7,17.9
+Burger Maker,2024-04,Taste & Flavor,7,17.9
+Burger Maker,2024-04,Cleanliness,4,10.3
+Burger Maker,2024-04,Delivery Speed,4,10.3
+Burger Maker,2024-04,Portion Size,4,10.3
+Burger Maker,2024-04,Service,4,10.3
+Burger Maker,2024-04,Incorrect Billing,3,7.7
+Burger Maker,2024-04,Other,3,7.7
+Burger Maker,2024-04,Food Temperature,2,5.1
+Burger Maker,2024-04,Price / Value,1,2.6
+Burger Maker,2024-05,Missing / Wrong Items,4,17.4
+Burger Maker,2024-05,Other,3,13.0
+Burger Maker,2024-05,Portion Size,3,13.0
+Burger Maker,2024-05,Taste & Flavor,3,13.0
+Burger Maker,2024-05,Cleanliness,2,8.7
+Burger Maker,2024-05,Delivery Speed,2,8.7
+Burger Maker,2024-05,Incorrect Billing,2,8.7
+Burger Maker,2024-05,Price / Value,2,8.7
+Burger Maker,2024-05,Service,2,8.7
+Burger Maker,2024-06,Missing / Wrong Items,4,15.4
+Burger Maker,2024-06,Taste & Flavor,4,15.4
+Burger Maker,2024-06,Delivery Speed,3,11.5
+Burger Maker,2024-06,Incorrect Billing,3,11.5
+Burger Maker,2024-06,Portion Size,3,11.5
+Burger Maker,2024-06,Price / Value,3,11.5
+Burger Maker,2024-06,Service,3,11.5
+Burger Maker,2024-06,Cleanliness,2,7.7
+Burger Maker,2024-06,Other,1,3.8
+Burger Maker,2024-07,Cleanliness,1,14.3
+Burger Maker,2024-07,Delivery Speed,1,14.3
+Burger Maker,2024-07,Missing / Wrong Items,1,14.3
+Burger Maker,2024-07,Other,1,14.3
+Burger Maker,2024-07,Price / Value,1,14.3
+Burger Maker,2024-07,Service,1,14.3
+Burger Maker,2024-07,Taste & Flavor,1,14.3
+Burger Maker,2024-08,Incorrect Billing,5,13.9
+Burger Maker,2024-08,Missing / Wrong Items,5,13.9
+Burger Maker,2024-08,Taste & Flavor,5,13.9
+Burger Maker,2024-08,Other,4,11.1
+Burger Maker,2024-08,Portion Size,4,11.1
+Burger Maker,2024-08,Price / Value,4,11.1
+Burger Maker,2024-08,Cleanliness,3,8.3
+Burger Maker,2024-08,Delivery Speed,3,8.3
+Burger Maker,2024-08,Service,3,8.3
+Burger Maker,2024-10,Incorrect Billing,3,12.5
+Burger Maker,2024-10,Missing / Wrong Items,3,12.5
+Burger Maker,2024-10,Portion Size,3,12.5
+Burger Maker,2024-10,Service,3,12.5
+Burger Maker,2024-10,Taste & Flavor,3,12.5
+Burger Maker,2024-10,Cleanliness,2,8.3
+Burger Maker,2024-10,Delivery Speed,2,8.3
+Burger Maker,2024-10,Price / Value,2,8.3
+Burger Maker,2024-10,Food Temperature,1,4.2
+Burger Maker,2024-10,Other,1,4.2
+Burger Maker,2024-10,Packaging,1,4.2
+Burger Maker,2024-11,Missing / Wrong Items,5,16.7
+Burger Maker,2024-11,Taste & Flavor,5,16.7
+Burger Maker,2024-11,Service,4,13.3
+Burger Maker,2024-11,Cleanliness,3,10.0
+Burger Maker,2024-11,Incorrect Billing,3,10.0
+Burger Maker,2024-11,Other,3,10.0
+Burger Maker,2024-11,Delivery Speed,2,6.7
+Burger Maker,2024-11,Food Temperature,2,6.7
+Burger Maker,2024-11,Portion Size,2,6.7
+Burger Maker,2024-11,Price / Value,1,3.3
+Burger Maker,2024-12,Missing / Wrong Items,15,13.5
+Burger Maker,2024-12,Other,14,12.6
+Burger Maker,2024-12,Taste & Flavor,13,11.7
+Burger Maker,2024-12,Cleanliness,12,10.8
+Burger Maker,2024-12,Service,12,10.8
+Burger Maker,2024-12,Delivery Speed,11,9.9
+Burger Maker,2024-12,Incorrect Billing,11,9.9
+Burger Maker,2024-12,Price / Value,10,9.0
+Burger Maker,2024-12,Portion Size,9,8.1
+Burger Maker,2024-12,Packaging,3,2.7
+Burger Maker,2024-12,Food Temperature,1,0.9
+Burger Maker,2025-01,Taste & Flavor,15,13.6
+Burger Maker,2025-01,Missing / Wrong Items,14,12.7
+Burger Maker,2025-01,Portion Size,14,12.7
+Burger Maker,2025-01,Incorrect Billing,11,10.0
+Burger Maker,2025-01,Price / Value,11,10.0
+Burger Maker,2025-01,Service,11,10.0
+Burger Maker,2025-01,Cleanliness,10,9.1
+Burger Maker,2025-01,Delivery Speed,10,9.1
+Burger Maker,2025-01,Other,10,9.1
+Burger Maker,2025-01,Packaging,4,3.6
+Burger Maker,2025-02,Missing / Wrong Items,11,12.8
+Burger Maker,2025-02,Service,11,12.8
+Burger Maker,2025-02,Taste & Flavor,11,12.8
+Burger Maker,2025-02,Incorrect Billing,9,10.5
+Burger Maker,2025-02,Portion Size,9,10.5
+Burger Maker,2025-02,Cleanliness,8,9.3
+Burger Maker,2025-02,Delivery Speed,8,9.3
+Burger Maker,2025-02,Other,8,9.3
+Burger Maker,2025-02,Price / Value,8,9.3
+Burger Maker,2025-02,Food Temperature,3,3.5
+Burger Maker,2025-03,Missing / Wrong Items,12,12.5
+Burger Maker,2025-03,Taste & Flavor,12,12.5
+Burger Maker,2025-03,Service,11,11.5
+Burger Maker,2025-03,Cleanliness,10,10.4
+Burger Maker,2025-03,Delivery Speed,10,10.4
+Burger Maker,2025-03,Incorrect Billing,10,10.4
+Burger Maker,2025-03,Portion Size,9,9.4
+Burger Maker,2025-03,Price / Value,9,9.4
+Burger Maker,2025-03,Other,8,8.3
+Burger Maker,2025-03,Food Temperature,3,3.1
+Burger Maker,2025-03,Packaging,2,2.1
+Burger Maker,2025-04,Missing / Wrong Items,12,13.2
+Burger Maker,2025-04,Service,11,12.1
+Burger Maker,2025-04,Cleanliness,10,11.0
+Burger Maker,2025-04,Incorrect Billing,10,11.0
+Burger Maker,2025-04,Taste & Flavor,10,11.0
+Burger Maker,2025-04,Delivery Speed,9,9.9
+Burger Maker,2025-04,Other,9,9.9
+Burger Maker,2025-04,Price / Value,9,9.9
+Burger Maker,2025-04,Portion Size,8,8.8
+Burger Maker,2025-04,Packaging,2,2.2
+Burger Maker,2025-04,Food Temperature,1,1.1
+Burger Maker,2025-05,Missing / Wrong Items,12,14.0
+Burger Maker,2025-05,Taste & Flavor,12,14.0
+Burger Maker,2025-05,Incorrect Billing,11,12.8
+Burger Maker,2025-05,Service,11,12.8
+Burger Maker,2025-05,Cleanliness,8,9.3
+Burger Maker,2025-05,Portion Size,8,9.3
+Burger Maker,2025-05,Price / Value,8,9.3
+Burger Maker,2025-05,Delivery Speed,7,8.1
+Burger Maker,2025-05,Other,7,8.1
+Burger Maker,2025-05,Food Temperature,1,1.2
+Burger Maker,2025-05,Packaging,1,1.2
+Burger Maker,2025-06,Missing / Wrong Items,21,14.8
+Burger Maker,2025-06,Taste & Flavor,18,12.7
+Burger Maker,2025-06,Service,17,12.0
+Burger Maker,2025-06,Cleanliness,15,10.6
+Burger Maker,2025-06,Incorrect Billing,15,10.6
+Burger Maker,2025-06,Delivery Speed,14,9.9
+Burger Maker,2025-06,Price / Value,13,9.2
+Burger Maker,2025-06,Other,12,8.5
+Burger Maker,2025-06,Portion Size,12,8.5
+Burger Maker,2025-06,Food Temperature,3,2.1
+Burger Maker,2025-06,Packaging,2,1.4
+Burger Maker,2025-07,Portion Size,10,13.5
+Burger Maker,2025-07,Service,10,13.5
+Burger Maker,2025-07,Taste & Flavor,10,13.5
+Burger Maker,2025-07,Missing / Wrong Items,9,12.2
+Burger Maker,2025-07,Incorrect Billing,8,10.8
+Burger Maker,2025-07,Other,7,9.5
+Burger Maker,2025-07,Cleanliness,6,8.1
+Burger Maker,2025-07,Delivery Speed,5,6.8
+Burger Maker,2025-07,Price / Value,5,6.8
+Burger Maker,2025-07,Food Temperature,3,4.1
+Burger Maker,2025-07,Packaging,1,1.4
+Burger Maker,2025-08,Missing / Wrong Items,8,14.3
+Burger Maker,2025-08,Taste & Flavor,8,14.3
+Burger Maker,2025-08,Portion Size,6,10.7
+Burger Maker,2025-08,Service,6,10.7
+Burger Maker,2025-08,Cleanliness,5,8.9
+Burger Maker,2025-08,Other,5,8.9
+Burger Maker,2025-08,Price / Value,5,8.9
+Burger Maker,2025-08,Delivery Speed,4,7.1
+Burger Maker,2025-08,Food Temperature,4,7.1
+Burger Maker,2025-08,Incorrect Billing,4,7.1
+Burger Maker,2025-08,Packaging,1,1.8
+Burger Maker,2025-09,Missing / Wrong Items,12,15.0
+Burger Maker,2025-09,Portion Size,11,13.8
+Burger Maker,2025-09,Taste & Flavor,11,13.8
+Burger Maker,2025-09,Service,10,12.5
+Burger Maker,2025-09,Incorrect Billing,9,11.2
+Burger Maker,2025-09,Other,8,10.0
+Burger Maker,2025-09,Cleanliness,7,8.8
+Burger Maker,2025-09,Delivery Speed,4,5.0
+Burger Maker,2025-09,Price / Value,4,5.0
+Burger Maker,2025-09,Food Temperature,3,3.8
+Burger Maker,2025-09,Packaging,1,1.2
+Burger Maker,2025-10,Missing / Wrong Items,9,13.2
+Burger Maker,2025-10,Other,9,13.2
+Burger Maker,2025-10,Taste & Flavor,9,13.2
+Burger Maker,2025-10,Delivery Speed,7,10.3
+Burger Maker,2025-10,Portion Size,7,10.3
+Burger Maker,2025-10,Price / Value,7,10.3
+Burger Maker,2025-10,Service,7,10.3
+Burger Maker,2025-10,Cleanliness,6,8.8
+Burger Maker,2025-10,Incorrect Billing,4,5.9
+Burger Maker,2025-10,Food Temperature,2,2.9
+Burger Maker,2025-10,Packaging,1,1.5
+Burger Maker,2025-11,Missing / Wrong Items,8,12.3
+Burger Maker,2025-11,Cleanliness,7,10.8
+Burger Maker,2025-11,Incorrect Billing,7,10.8
+Burger Maker,2025-11,Other,7,10.8
+Burger Maker,2025-11,Portion Size,7,10.8
+Burger Maker,2025-11,Service,7,10.8
+Burger Maker,2025-11,Taste & Flavor,7,10.8
+Burger Maker,2025-11,Delivery Speed,6,9.2
+Burger Maker,2025-11,Price / Value,6,9.2
+Burger Maker,2025-11,Packaging,2,3.1
+Burger Maker,2025-11,Food Temperature,1,1.5
+Chicken Kingdom,2024-05,Incorrect Billing,7,12.5
+Chicken Kingdom,2024-05,Missing / Wrong Items,7,12.5
+Chicken Kingdom,2024-05,Service,7,12.5
+Chicken Kingdom,2024-05,Cleanliness,6,10.7
+Chicken Kingdom,2024-05,Other,6,10.7
+Chicken Kingdom,2024-05,Portion Size,6,10.7
+Chicken Kingdom,2024-05,Taste & Flavor,6,10.7
+Chicken Kingdom,2024-05,Price / Value,5,8.9
+Chicken Kingdom,2024-05,Delivery Speed,4,7.1
+Chicken Kingdom,2024-05,Packaging,2,3.6
+Chicken Kingdom,2024-06,Taste & Flavor,19,12.1
+Chicken Kingdom,2024-06,Missing / Wrong Items,18,11.5
+Chicken Kingdom,2024-06,Price / Value,18,11.5
+Chicken Kingdom,2024-06,Service,18,11.5
+Chicken Kingdom,2024-06,Other,17,10.8
+Chicken Kingdom,2024-06,Cleanliness,16,10.2
+Chicken Kingdom,2024-06,Delivery Speed,16,10.2
+Chicken Kingdom,2024-06,Portion Size,16,10.2
+Chicken Kingdom,2024-06,Incorrect Billing,14,8.9
+Chicken Kingdom,2024-06,Packaging,4,2.5
+Chicken Kingdom,2024-06,Food Temperature,1,0.6
+Chicken Kingdom,2024-07,Missing / Wrong Items,13,13.0
+Chicken Kingdom,2024-07,Taste & Flavor,12,12.0
+Chicken Kingdom,2024-07,Service,11,11.0
+Chicken Kingdom,2024-07,Cleanliness,10,10.0
+Chicken Kingdom,2024-07,Incorrect Billing,10,10.0
+Chicken Kingdom,2024-07,Other,10,10.0
+Chicken Kingdom,2024-07,Portion Size,10,10.0
+Chicken Kingdom,2024-07,Price / Value,10,10.0
+Chicken Kingdom,2024-07,Delivery Speed,9,9.0
+Chicken Kingdom,2024-07,Packaging,3,3.0
+Chicken Kingdom,2024-07,Food Temperature,2,2.0
+Chicken Kingdom,2024-08,Missing / Wrong Items,8,14.0
+Chicken Kingdom,2024-08,Incorrect Billing,7,12.3
+Chicken Kingdom,2024-08,Portion Size,7,12.3
+Chicken Kingdom,2024-08,Taste & Flavor,7,12.3
+Chicken Kingdom,2024-08,Other,5,8.8
+Chicken Kingdom,2024-08,Price / Value,5,8.8
+Chicken Kingdom,2024-08,Service,5,8.8
+Chicken Kingdom,2024-08,Delivery Speed,4,7.0
+Chicken Kingdom,2024-08,Cleanliness,3,5.3
+Chicken Kingdom,2024-08,Food Temperature,3,5.3
+Chicken Kingdom,2024-08,Packaging,3,5.3
+Chicken Kingdom,2024-09,Missing / Wrong Items,15,13.8
+Chicken Kingdom,2024-09,Taste & Flavor,13,11.9
+Chicken Kingdom,2024-09,Portion Size,12,11.0
+Chicken Kingdom,2024-09,Service,12,11.0
+Chicken Kingdom,2024-09,Cleanliness,11,10.1
+Chicken Kingdom,2024-09,Other,11,10.1
+Chicken Kingdom,2024-09,Price / Value,11,10.1
+Chicken Kingdom,2024-09,Delivery Speed,10,9.2
+Chicken Kingdom,2024-09,Incorrect Billing,10,9.2
+Chicken Kingdom,2024-09,Packaging,3,2.8
+Chicken Kingdom,2024-09,Food Temperature,1,0.9
+Chicken Kingdom,2024-10,Missing / Wrong Items,11,13.4
+Chicken Kingdom,2024-10,Service,11,13.4
+Chicken Kingdom,2024-10,Cleanliness,10,12.2
+Chicken Kingdom,2024-10,Other,9,11.0
+Chicken Kingdom,2024-10,Portion Size,9,11.0
+Chicken Kingdom,2024-10,Taste & Flavor,9,11.0
+Chicken Kingdom,2024-10,Delivery Speed,8,9.8
+Chicken Kingdom,2024-10,Incorrect Billing,8,9.8
+Chicken Kingdom,2024-10,Price / Value,7,8.5
+Chicken Kingdom,2024-11,Missing / Wrong Items,34,13.2
+Chicken Kingdom,2024-11,Taste & Flavor,33,12.8
+Chicken Kingdom,2024-11,Service,31,12.0
+Chicken Kingdom,2024-11,Cleanliness,28,10.9
+Chicken Kingdom,2024-11,Delivery Speed,28,10.9
+Chicken Kingdom,2024-11,Price / Value,28,10.9
+Chicken Kingdom,2024-11,Other,27,10.5
+Chicken Kingdom,2024-11,Portion Size,22,8.5
+Chicken Kingdom,2024-11,Incorrect Billing,21,8.1
+Chicken Kingdom,2024-11,Food Temperature,4,1.6
+Chicken Kingdom,2024-11,Packaging,2,0.8
+Chicken Kingdom,2024-12,Missing / Wrong Items,32,14.0
+Chicken Kingdom,2024-12,Service,29,12.7
+Chicken Kingdom,2024-12,Taste & Flavor,29,12.7
+Chicken Kingdom,2024-12,Portion Size,25,11.0
+Chicken Kingdom,2024-12,Other,24,10.5
+Chicken Kingdom,2024-12,Incorrect Billing,23,10.1
+Chicken Kingdom,2024-12,Cleanliness,21,9.2
+Chicken Kingdom,2024-12,Delivery Speed,19,8.3
+Chicken Kingdom,2024-12,Price / Value,19,8.3
+Chicken Kingdom,2024-12,Food Temperature,4,1.8
+Chicken Kingdom,2024-12,Packaging,3,1.3
+Chicken Kingdom,2025-01,Missing / Wrong Items,36,13.2
+Chicken Kingdom,2025-01,Taste & Flavor,36,13.2
+Chicken Kingdom,2025-01,Service,31,11.4
+Chicken Kingdom,2025-01,Delivery Speed,30,11.0
+Chicken Kingdom,2025-01,Cleanliness,29,10.6
+Chicken Kingdom,2025-01,Portion Size,28,10.3
+Chicken Kingdom,2025-01,Other,27,9.9
+Chicken Kingdom,2025-01,Incorrect Billing,25,9.2
+Chicken Kingdom,2025-01,Price / Value,25,9.2
+Chicken Kingdom,2025-01,Packaging,5,1.8
+Chicken Kingdom,2025-01,Food Temperature,1,0.4
+Chicken Kingdom,2025-02,Missing / Wrong Items,21,13.9
+Chicken Kingdom,2025-02,Taste & Flavor,18,11.9
+Chicken Kingdom,2025-02,Portion Size,17,11.3
+Chicken Kingdom,2025-02,Service,16,10.6
+Chicken Kingdom,2025-02,Delivery Speed,15,9.9
+Chicken Kingdom,2025-02,Incorrect Billing,14,9.3
+Chicken Kingdom,2025-02,Other,14,9.3
+Chicken Kingdom,2025-02,Price / Value,14,9.3
+Chicken Kingdom,2025-02,Cleanliness,12,7.9
+Chicken Kingdom,2025-02,Packaging,7,4.6
+Chicken Kingdom,2025-02,Food Temperature,3,2.0
+Chicken Kingdom,2025-03,Missing / Wrong Items,23,14.7
+Chicken Kingdom,2025-03,Taste & Flavor,22,14.1
+Chicken Kingdom,2025-03,Portion Size,17,10.9
+Chicken Kingdom,2025-03,Service,16,10.3
+Chicken Kingdom,2025-03,Delivery Speed,15,9.6
+Chicken Kingdom,2025-03,Incorrect Billing,15,9.6
+Chicken Kingdom,2025-03,Cleanliness,14,9.0
+Chicken Kingdom,2025-03,Other,13,8.3
+Chicken Kingdom,2025-03,Price / Value,13,8.3
+Chicken Kingdom,2025-03,Packaging,5,3.2
+Chicken Kingdom,2025-03,Food Temperature,3,1.9
+Chicken Kingdom,2025-04,Missing / Wrong Items,29,13.6
+Chicken Kingdom,2025-04,Taste & Flavor,26,12.1
+Chicken Kingdom,2025-04,Portion Size,24,11.2
+Chicken Kingdom,2025-04,Service,23,10.7
+Chicken Kingdom,2025-04,Incorrect Billing,22,10.3
+Chicken Kingdom,2025-04,Delivery Speed,21,9.8
+Chicken Kingdom,2025-04,Other,21,9.8
+Chicken Kingdom,2025-04,Cleanliness,20,9.3
+Chicken Kingdom,2025-04,Price / Value,17,7.9
+Chicken Kingdom,2025-04,Packaging,6,2.8
+Chicken Kingdom,2025-04,Food Temperature,5,2.3
+Chicken Kingdom,2025-05,Missing / Wrong Items,60,12.5
+Chicken Kingdom,2025-05,Taste & Flavor,58,12.1
+Chicken Kingdom,2025-05,Service,56,11.6
+Chicken Kingdom,2025-05,Cleanliness,51,10.6
+Chicken Kingdom,2025-05,Delivery Speed,50,10.4
+Chicken Kingdom,2025-05,Incorrect Billing,50,10.4
+Chicken Kingdom,2025-05,Portion Size,50,10.4
+Chicken Kingdom,2025-05,Other,49,10.2
+Chicken Kingdom,2025-05,Price / Value,46,9.6
+Chicken Kingdom,2025-05,Packaging,9,1.9
+Chicken Kingdom,2025-05,Food Temperature,2,0.4
+Chicken Kingdom,2025-06,Missing / Wrong Items,40,12.9
+Chicken Kingdom,2025-06,Taste & Flavor,38,12.3
+Chicken Kingdom,2025-06,Cleanliness,32,10.4
+Chicken Kingdom,2025-06,Portion Size,32,10.4
+Chicken Kingdom,2025-06,Service,32,10.4
+Chicken Kingdom,2025-06,Incorrect Billing,31,10.0
+Chicken Kingdom,2025-06,Other,31,10.0
+Chicken Kingdom,2025-06,Delivery Speed,30,9.7
+Chicken Kingdom,2025-06,Price / Value,30,9.7
+Chicken Kingdom,2025-06,Food Temperature,7,2.3
+Chicken Kingdom,2025-06,Packaging,6,1.9
+Chicken Kingdom,2025-07,Missing / Wrong Items,23,12.0
+Chicken Kingdom,2025-07,Service,23,12.0
+Chicken Kingdom,2025-07,Taste & Flavor,23,12.0
+Chicken Kingdom,2025-07,Cleanliness,21,11.0
+Chicken Kingdom,2025-07,Delivery Speed,19,9.9
+Chicken Kingdom,2025-07,Incorrect Billing,19,9.9
+Chicken Kingdom,2025-07,Portion Size,19,9.9
+Chicken Kingdom,2025-07,Price / Value,19,9.9
+Chicken Kingdom,2025-07,Other,17,8.9
+Chicken Kingdom,2025-07,Packaging,7,3.7
+Chicken Kingdom,2025-07,Food Temperature,1,0.5
+Chicken Kingdom,2025-08,Missing / Wrong Items,14,14.9
+Chicken Kingdom,2025-08,Taste & Flavor,13,13.8
+Chicken Kingdom,2025-08,Service,11,11.7
+Chicken Kingdom,2025-08,Other,10,10.6
+Chicken Kingdom,2025-08,Portion Size,10,10.6
+Chicken Kingdom,2025-08,Price / Value,9,9.6
+Chicken Kingdom,2025-08,Delivery Speed,8,8.5
+Chicken Kingdom,2025-08,Incorrect Billing,8,8.5
+Chicken Kingdom,2025-08,Cleanliness,7,7.4
+Chicken Kingdom,2025-08,Food Temperature,2,2.1
+Chicken Kingdom,2025-08,Packaging,2,2.1
+Chicken Kingdom,2025-09,Missing / Wrong Items,10,11.9
+Chicken Kingdom,2025-09,Portion Size,10,11.9
+Chicken Kingdom,2025-09,Cleanliness,9,10.7
+Chicken Kingdom,2025-09,Delivery Speed,9,10.7
+Chicken Kingdom,2025-09,Other,9,10.7
+Chicken Kingdom,2025-09,Price / Value,9,10.7
+Chicken Kingdom,2025-09,Service,9,10.7
+Chicken Kingdom,2025-09,Taste & Flavor,9,10.7
+Chicken Kingdom,2025-09,Incorrect Billing,8,9.5
+Chicken Kingdom,2025-09,Food Temperature,1,1.2
+Chicken Kingdom,2025-09,Packaging,1,1.2
+Chicken Kingdom,2025-10,Cleanliness,2,11.1
+Chicken Kingdom,2025-10,Delivery Speed,2,11.1
+Chicken Kingdom,2025-10,Incorrect Billing,2,11.1
+Chicken Kingdom,2025-10,Missing / Wrong Items,2,11.1
+Chicken Kingdom,2025-10,Portion Size,2,11.1
+Chicken Kingdom,2025-10,Price / Value,2,11.1
+Chicken Kingdom,2025-10,Service,2,11.1
+Chicken Kingdom,2025-10,Taste & Flavor,2,11.1
+Chicken Kingdom,2025-10,Other,1,5.6
+Chicken Kingdom,2025-10,Packaging,1,5.6
+Chicken Kingdom,2025-11,Missing / Wrong Items,9,15.0
+Chicken Kingdom,2025-11,Cleanliness,8,13.3
+Chicken Kingdom,2025-11,Taste & Flavor,8,13.3
+Chicken Kingdom,2025-11,Service,7,11.7
+Chicken Kingdom,2025-11,Delivery Speed,6,10.0
+Chicken Kingdom,2025-11,Incorrect Billing,6,10.0
+Chicken Kingdom,2025-11,Other,6,10.0
+Chicken Kingdom,2025-11,Price / Value,6,10.0
+Chicken Kingdom,2025-11,Portion Size,4,6.7
+Crispy Chicken,2025-04,Cleanliness,2,10.5
+Crispy Chicken,2025-04,Delivery Speed,2,10.5
+Crispy Chicken,2025-04,Incorrect Billing,2,10.5
+Crispy Chicken,2025-04,Missing / Wrong Items,2,10.5
+Crispy Chicken,2025-04,Other,2,10.5
+Crispy Chicken,2025-04,Portion Size,2,10.5
+Crispy Chicken,2025-04,Price / Value,2,10.5
+Crispy Chicken,2025-04,Service,2,10.5
+Crispy Chicken,2025-04,Taste & Flavor,2,10.5
+Crispy Chicken,2025-04,Packaging,1,5.3
+Crispy Chicken,2025-05,Incorrect Billing,8,11.6
+Crispy Chicken,2025-05,Missing / Wrong Items,8,11.6
+Crispy Chicken,2025-05,Portion Size,8,11.6
+Crispy Chicken,2025-05,Service,8,11.6
+Crispy Chicken,2025-05,Taste & Flavor,8,11.6
+Crispy Chicken,2025-05,Cleanliness,7,10.1
+Crispy Chicken,2025-05,Delivery Speed,7,10.1
+Crispy Chicken,2025-05,Price / Value,6,8.7
+Crispy Chicken,2025-05,Other,5,7.2
+Crispy Chicken,2025-05,Food Temperature,2,2.9
+Crispy Chicken,2025-05,Packaging,2,2.9
+Crispy Chicken,2025-06,Cleanliness,13,11.8
+Crispy Chicken,2025-06,Missing / Wrong Items,13,11.8
+Crispy Chicken,2025-06,Service,13,11.8
+Crispy Chicken,2025-06,Taste & Flavor,13,11.8
+Crispy Chicken,2025-06,Delivery Speed,12,10.9
+Crispy Chicken,2025-06,Incorrect Billing,12,10.9
+Crispy Chicken,2025-06,Other,12,10.9
+Crispy Chicken,2025-06,Portion Size,12,10.9
+Crispy Chicken,2025-06,Price / Value,10,9.1
+Crispy Chicken,2025-07,Missing / Wrong Items,23,12.1
+Crispy Chicken,2025-07,Service,23,12.1
+Crispy Chicken,2025-07,Cleanliness,22,11.6
+Crispy Chicken,2025-07,Taste & Flavor,22,11.6
+Crispy Chicken,2025-07,Delivery Speed,20,10.5
+Crispy Chicken,2025-07,Other,20,10.5
+Crispy Chicken,2025-07,Portion Size,20,10.5
+Crispy Chicken,2025-07,Incorrect Billing,17,8.9
+Crispy Chicken,2025-07,Price / Value,17,8.9
+Crispy Chicken,2025-07,Packaging,5,2.6
+Crispy Chicken,2025-07,Food Temperature,1,0.5
+Crispy Chicken,2025-08,Missing / Wrong Items,20,12.3
+Crispy Chicken,2025-08,Cleanliness,18,11.1
+Crispy Chicken,2025-08,Price / Value,18,11.1
+Crispy Chicken,2025-08,Service,18,11.1
+Crispy Chicken,2025-08,Taste & Flavor,18,11.1
+Crispy Chicken,2025-08,Delivery Speed,17,10.5
+Crispy Chicken,2025-08,Other,17,10.5
+Crispy Chicken,2025-08,Incorrect Billing,16,9.9
+Crispy Chicken,2025-08,Portion Size,16,9.9
+Crispy Chicken,2025-08,Packaging,4,2.5
+Crispy Chicken,2025-09,Cleanliness,20,12.0
+Crispy Chicken,2025-09,Missing / Wrong Items,20,12.0
+Crispy Chicken,2025-09,Service,20,12.0
+Crispy Chicken,2025-09,Taste & Flavor,20,12.0
+Crispy Chicken,2025-09,Delivery Speed,18,10.8
+Crispy Chicken,2025-09,Price / Value,18,10.8
+Crispy Chicken,2025-09,Incorrect Billing,17,10.2
+Crispy Chicken,2025-09,Portion Size,16,9.6
+Crispy Chicken,2025-09,Other,14,8.4
+Crispy Chicken,2025-09,Packaging,4,2.4
+Crispy Chicken,2025-10,Cleanliness,11,11.6
+Crispy Chicken,2025-10,Missing / Wrong Items,11,11.6
+Crispy Chicken,2025-10,Other,11,11.6
+Crispy Chicken,2025-10,Service,11,11.6
+Crispy Chicken,2025-10,Taste & Flavor,11,11.6
+Crispy Chicken,2025-10,Incorrect Billing,10,10.5
+Crispy Chicken,2025-10,Portion Size,10,10.5
+Crispy Chicken,2025-10,Delivery Speed,9,9.5
+Crispy Chicken,2025-10,Price / Value,9,9.5
+Crispy Chicken,2025-10,Packaging,2,2.1
+Crispy Chicken,2025-11,Missing / Wrong Items,14,11.7
+Crispy Chicken,2025-11,Taste & Flavor,14,11.7
+Crispy Chicken,2025-11,Cleanliness,13,10.8
+Crispy Chicken,2025-11,Delivery Speed,13,10.8
+Crispy Chicken,2025-11,Incorrect Billing,13,10.8
+Crispy Chicken,2025-11,Other,13,10.8
+Crispy Chicken,2025-11,Portion Size,13,10.8
+Crispy Chicken,2025-11,Service,13,10.8
+Crispy Chicken,2025-11,Price / Value,10,8.3
+Crispy Chicken,2025-11,Packaging,3,2.5
+Crispy Chicken,2025-11,Food Temperature,1,0.8
+Dominos Pizza,2022-03,Delivery Speed,1,11.1
+Dominos Pizza,2022-03,Incorrect Billing,1,11.1
+Dominos Pizza,2022-03,Missing / Wrong Items,1,11.1
+Dominos Pizza,2022-03,Other,1,11.1
+Dominos Pizza,2022-03,Packaging,1,11.1
+Dominos Pizza,2022-03,Portion Size,1,11.1
+Dominos Pizza,2022-03,Price / Value,1,11.1
+Dominos Pizza,2022-03,Service,1,11.1
+Dominos Pizza,2022-03,Taste & Flavor,1,11.1
+Dominos Pizza,2022-05,Cleanliness,2,13.3
+Dominos Pizza,2022-05,Incorrect Billing,2,13.3
+Dominos Pizza,2022-05,Missing / Wrong Items,2,13.3
+Dominos Pizza,2022-05,Service,2,13.3
+Dominos Pizza,2022-05,Taste & Flavor,2,13.3
+Dominos Pizza,2022-05,Delivery Speed,1,6.7
+Dominos Pizza,2022-05,Food Temperature,1,6.7
+Dominos Pizza,2022-05,Packaging,1,6.7
+Dominos Pizza,2022-05,Portion Size,1,6.7
+Dominos Pizza,2022-05,Price / Value,1,6.7
+Dominos Pizza,2022-09,Cleanliness,1,11.1
+Dominos Pizza,2022-09,Delivery Speed,1,11.1
+Dominos Pizza,2022-09,Incorrect Billing,1,11.1
+Dominos Pizza,2022-09,Missing / Wrong Items,1,11.1
+Dominos Pizza,2022-09,Other,1,11.1
+Dominos Pizza,2022-09,Portion Size,1,11.1
+Dominos Pizza,2022-09,Price / Value,1,11.1
+Dominos Pizza,2022-09,Service,1,11.1
+Dominos Pizza,2022-09,Taste & Flavor,1,11.1
+Dominos Pizza,2023-06,Cleanliness,1,11.1
+Dominos Pizza,2023-06,Delivery Speed,1,11.1
+Dominos Pizza,2023-06,Incorrect Billing,1,11.1
+Dominos Pizza,2023-06,Missing / Wrong Items,1,11.1
+Dominos Pizza,2023-06,Other,1,11.1
+Dominos Pizza,2023-06,Portion Size,1,11.1
+Dominos Pizza,2023-06,Price / Value,1,11.1
+Dominos Pizza,2023-06,Service,1,11.1
+Dominos Pizza,2023-06,Taste & Flavor,1,11.1
+Dominos Pizza,2024-08,Delivery Speed,1,14.3
+Dominos Pizza,2024-08,Incorrect Billing,1,14.3
+Dominos Pizza,2024-08,Missing / Wrong Items,1,14.3
+Dominos Pizza,2024-08,Portion Size,1,14.3
+Dominos Pizza,2024-08,Price / Value,1,14.3
+Dominos Pizza,2024-08,Service,1,14.3
+Dominos Pizza,2024-08,Taste & Flavor,1,14.3
+Dominos Pizza,2024-10,Incorrect Billing,2,18.2
+Dominos Pizza,2024-10,Missing / Wrong Items,2,18.2
+Dominos Pizza,2024-10,Other,2,18.2
+Dominos Pizza,2024-10,Cleanliness,1,9.1
+Dominos Pizza,2024-10,Food Temperature,1,9.1
+Dominos Pizza,2024-10,Price / Value,1,9.1
+Dominos Pizza,2024-10,Service,1,9.1
+Dominos Pizza,2024-10,Taste & Flavor,1,9.1
+Dominos Pizza,2024-12,Service,2,20.0
+Dominos Pizza,2024-12,Cleanliness,1,10.0
+Dominos Pizza,2024-12,Delivery Speed,1,10.0
+Dominos Pizza,2024-12,Incorrect Billing,1,10.0
+Dominos Pizza,2024-12,Missing / Wrong Items,1,10.0
+Dominos Pizza,2024-12,Other,1,10.0
+Dominos Pizza,2024-12,Portion Size,1,10.0
+Dominos Pizza,2024-12,Price / Value,1,10.0
+Dominos Pizza,2024-12,Taste & Flavor,1,10.0
+Dominos Pizza,2025-01,Cleanliness,1,10.0
+Dominos Pizza,2025-01,Delivery Speed,1,10.0
+Dominos Pizza,2025-01,Incorrect Billing,1,10.0
+Dominos Pizza,2025-01,Missing / Wrong Items,1,10.0
+Dominos Pizza,2025-01,Other,1,10.0
+Dominos Pizza,2025-01,Packaging,1,10.0
+Dominos Pizza,2025-01,Portion Size,1,10.0
+Dominos Pizza,2025-01,Price / Value,1,10.0
+Dominos Pizza,2025-01,Service,1,10.0
+Dominos Pizza,2025-01,Taste & Flavor,1,10.0
+Dominos Pizza,2025-07,Missing / Wrong Items,3,15.8
+Dominos Pizza,2025-07,Portion Size,3,15.8
+Dominos Pizza,2025-07,Service,3,15.8
+Dominos Pizza,2025-07,Taste & Flavor,3,15.8
+Dominos Pizza,2025-07,Delivery Speed,2,10.5
+Dominos Pizza,2025-07,Incorrect Billing,2,10.5
+Dominos Pizza,2025-07,Food Temperature,1,5.3
+Dominos Pizza,2025-07,Other,1,5.3
+Dominos Pizza,2025-07,Price / Value,1,5.3
+Dominos Pizza,2025-08,Cleanliness,2,12.5
+Dominos Pizza,2025-08,Delivery Speed,2,12.5
+Dominos Pizza,2025-08,Missing / Wrong Items,2,12.5
+Dominos Pizza,2025-08,Price / Value,2,12.5
+Dominos Pizza,2025-08,Service,2,12.5
+Dominos Pizza,2025-08,Taste & Flavor,2,12.5
+Dominos Pizza,2025-08,Incorrect Billing,1,6.2
+Dominos Pizza,2025-08,Other,1,6.2
+Dominos Pizza,2025-08,Packaging,1,6.2
+Dominos Pizza,2025-08,Portion Size,1,6.2
+Dominos Pizza,2025-11,Cleanliness,1,16.7
+Dominos Pizza,2025-11,Incorrect Billing,1,16.7
+Dominos Pizza,2025-11,Missing / Wrong Items,1,16.7
+Dominos Pizza,2025-11,Other,1,16.7
+Dominos Pizza,2025-11,Portion Size,1,16.7
+Dominos Pizza,2025-11,Taste & Flavor,1,16.7
+Ibra Sandwich,2025-06,Cleanliness,1,12.5
+Ibra Sandwich,2025-06,Delivery Speed,1,12.5
+Ibra Sandwich,2025-06,Incorrect Billing,1,12.5
+Ibra Sandwich,2025-06,Missing / Wrong Items,1,12.5
+Ibra Sandwich,2025-06,Other,1,12.5
+Ibra Sandwich,2025-06,Portion Size,1,12.5
+Ibra Sandwich,2025-06,Service,1,12.5
+Ibra Sandwich,2025-06,Taste & Flavor,1,12.5
+Ibra Sandwich,2025-07,Cleanliness,4,11.8
+Ibra Sandwich,2025-07,Incorrect Billing,4,11.8
+Ibra Sandwich,2025-07,Missing / Wrong Items,4,11.8
+Ibra Sandwich,2025-07,Other,4,11.8
+Ibra Sandwich,2025-07,Service,4,11.8
+Ibra Sandwich,2025-07,Taste & Flavor,4,11.8
+Ibra Sandwich,2025-07,Delivery Speed,3,8.8
+Ibra Sandwich,2025-07,Portion Size,3,8.8
+Ibra Sandwich,2025-07,Price / Value,3,8.8
+Ibra Sandwich,2025-07,Packaging,1,2.9
+Ibra Sandwich,2025-08,Cleanliness,3,11.1
+Ibra Sandwich,2025-08,Delivery Speed,3,11.1
+Ibra Sandwich,2025-08,Incorrect Billing,3,11.1
+Ibra Sandwich,2025-08,Missing / Wrong Items,3,11.1
+Ibra Sandwich,2025-08,Other,3,11.1
+Ibra Sandwich,2025-08,Portion Size,3,11.1
+Ibra Sandwich,2025-08,Price / Value,3,11.1
+Ibra Sandwich,2025-08,Service,3,11.1
+Ibra Sandwich,2025-08,Taste & Flavor,3,11.1
+Ibra Sandwich,2025-09,Cleanliness,4,12.9
+Ibra Sandwich,2025-09,Delivery Speed,4,12.9
+Ibra Sandwich,2025-09,Missing / Wrong Items,4,12.9
+Ibra Sandwich,2025-09,Service,4,12.9
+Ibra Sandwich,2025-09,Taste & Flavor,4,12.9
+Ibra Sandwich,2025-09,Other,3,9.7
+Ibra Sandwich,2025-09,Price / Value,3,9.7
+Ibra Sandwich,2025-09,Incorrect Billing,2,6.5
+Ibra Sandwich,2025-09,Portion Size,2,6.5
+Ibra Sandwich,2025-09,Packaging,1,3.2
+Ibra Sandwich,2025-10,Cleanliness,1,12.5
+Ibra Sandwich,2025-10,Delivery Speed,1,12.5
+Ibra Sandwich,2025-10,Incorrect Billing,1,12.5
+Ibra Sandwich,2025-10,Missing / Wrong Items,1,12.5
+Ibra Sandwich,2025-10,Portion Size,1,12.5
+Ibra Sandwich,2025-10,Price / Value,1,12.5
+Ibra Sandwich,2025-10,Service,1,12.5
+Ibra Sandwich,2025-10,Taste & Flavor,1,12.5
+Ibra Sandwich,2025-11,Cleanliness,3,11.1
+Ibra Sandwich,2025-11,Delivery Speed,3,11.1
+Ibra Sandwich,2025-11,Incorrect Billing,3,11.1
+Ibra Sandwich,2025-11,Missing / Wrong Items,3,11.1
+Ibra Sandwich,2025-11,Other,3,11.1
+Ibra Sandwich,2025-11,Portion Size,3,11.1
+Ibra Sandwich,2025-11,Price / Value,3,11.1
+Ibra Sandwich,2025-11,Service,3,11.1
+Ibra Sandwich,2025-11,Taste & Flavor,3,11.1
+Mr Hotdog,2022-05,Missing / Wrong Items,1,25.0
+Mr Hotdog,2022-05,Portion Size,1,25.0
+Mr Hotdog,2022-05,Service,1,25.0
+Mr Hotdog,2022-05,Taste & Flavor,1,25.0
+Mr Hotdog,2022-07,Cleanliness,1,14.3
+Mr Hotdog,2022-07,Delivery Speed,1,14.3
+Mr Hotdog,2022-07,Missing / Wrong Items,1,14.3
+Mr Hotdog,2022-07,Other,1,14.3
+Mr Hotdog,2022-07,Price / Value,1,14.3
+Mr Hotdog,2022-07,Service,1,14.3
+Mr Hotdog,2022-07,Taste & Flavor,1,14.3
+Mr Hotdog,2022-09,Cleanliness,1,11.1
+Mr Hotdog,2022-09,Delivery Speed,1,11.1
+Mr Hotdog,2022-09,Incorrect Billing,1,11.1
+Mr Hotdog,2022-09,Missing / Wrong Items,1,11.1
+Mr Hotdog,2022-09,Other,1,11.1
+Mr Hotdog,2022-09,Portion Size,1,11.1
+Mr Hotdog,2022-09,Price / Value,1,11.1
+Mr Hotdog,2022-09,Service,1,11.1
+Mr Hotdog,2022-09,Taste & Flavor,1,11.1
+Mr Hotdog,2022-12,Cleanliness,1,11.1
+Mr Hotdog,2022-12,Delivery Speed,1,11.1
+Mr Hotdog,2022-12,Incorrect Billing,1,11.1
+Mr Hotdog,2022-12,Missing / Wrong Items,1,11.1
+Mr Hotdog,2022-12,Other,1,11.1
+Mr Hotdog,2022-12,Portion Size,1,11.1
+Mr Hotdog,2022-12,Price / Value,1,11.1
+Mr Hotdog,2022-12,Service,1,11.1
+Mr Hotdog,2022-12,Taste & Flavor,1,11.1
+Mr Hotdog,2024-08,Cleanliness,1,11.1
+Mr Hotdog,2024-08,Delivery Speed,1,11.1
+Mr Hotdog,2024-08,Incorrect Billing,1,11.1
+Mr Hotdog,2024-08,Missing / Wrong Items,1,11.1
+Mr Hotdog,2024-08,Other,1,11.1
+Mr Hotdog,2024-08,Portion Size,1,11.1
+Mr Hotdog,2024-08,Price / Value,1,11.1
+Mr Hotdog,2024-08,Service,1,11.1
+Mr Hotdog,2024-08,Taste & Flavor,1,11.1
+Mr Hotdog,2024-11,Incorrect Billing,2,18.2
+Mr Hotdog,2024-11,Missing / Wrong Items,2,18.2
+Mr Hotdog,2024-11,Cleanliness,1,9.1
+Mr Hotdog,2024-11,Delivery Speed,1,9.1
+Mr Hotdog,2024-11,Other,1,9.1
+Mr Hotdog,2024-11,Portion Size,1,9.1
+Mr Hotdog,2024-11,Price / Value,1,9.1
+Mr Hotdog,2024-11,Service,1,9.1
+Mr Hotdog,2024-11,Taste & Flavor,1,9.1
+Mr Hotdog,2025-01,Delivery Speed,1,11.1
+Mr Hotdog,2025-01,Incorrect Billing,1,11.1
+Mr Hotdog,2025-01,Missing / Wrong Items,1,11.1
+Mr Hotdog,2025-01,Other,1,11.1
+Mr Hotdog,2025-01,Packaging,1,11.1
+Mr Hotdog,2025-01,Portion Size,1,11.1
+Mr Hotdog,2025-01,Price / Value,1,11.1
+Mr Hotdog,2025-01,Service,1,11.1
+Mr Hotdog,2025-01,Taste & Flavor,1,11.1
+Ninja Sushi,2024-07,Cleanliness,1,10.0
+Ninja Sushi,2024-07,Delivery Speed,1,10.0
+Ninja Sushi,2024-07,Food Temperature,1,10.0
+Ninja Sushi,2024-07,Incorrect Billing,1,10.0
+Ninja Sushi,2024-07,Missing / Wrong Items,1,10.0
+Ninja Sushi,2024-07,Other,1,10.0
+Ninja Sushi,2024-07,Portion Size,1,10.0
+Ninja Sushi,2024-07,Price / Value,1,10.0
+Ninja Sushi,2024-07,Service,1,10.0
+Ninja Sushi,2024-07,Taste & Flavor,1,10.0
+Ninja Sushi,2024-09,Delivery Speed,1,11.1
+Ninja Sushi,2024-09,Food Temperature,1,11.1
+Ninja Sushi,2024-09,Incorrect Billing,1,11.1
+Ninja Sushi,2024-09,Missing / Wrong Items,1,11.1
+Ninja Sushi,2024-09,Other,1,11.1
+Ninja Sushi,2024-09,Packaging,1,11.1
+Ninja Sushi,2024-09,Portion Size,1,11.1
+Ninja Sushi,2024-09,Service,1,11.1
+Ninja Sushi,2024-09,Taste & Flavor,1,11.1
+Pizza Hut,2022-01,Missing / Wrong Items,6,12.8
+Pizza Hut,2022-01,Price / Value,6,12.8
+Pizza Hut,2022-01,Service,6,12.8
+Pizza Hut,2022-01,Taste & Flavor,6,12.8
+Pizza Hut,2022-01,Cleanliness,5,10.6
+Pizza Hut,2022-01,Delivery Speed,5,10.6
+Pizza Hut,2022-01,Other,5,10.6
+Pizza Hut,2022-01,Portion Size,4,8.5
+Pizza Hut,2022-01,Incorrect Billing,3,6.4
+Pizza Hut,2022-01,Packaging,1,2.1
+Pizza Hut,2022-02,Missing / Wrong Items,7,13.7
+Pizza Hut,2022-02,Delivery Speed,6,11.8
+Pizza Hut,2022-02,Other,6,11.8
+Pizza Hut,2022-02,Portion Size,6,11.8
+Pizza Hut,2022-02,Incorrect Billing,5,9.8
+Pizza Hut,2022-02,Price / Value,5,9.8
+Pizza Hut,2022-02,Service,5,9.8
+Pizza Hut,2022-02,Packaging,4,7.8
+Pizza Hut,2022-02,Taste & Flavor,4,7.8
+Pizza Hut,2022-02,Cleanliness,3,5.9
+Pizza Hut,2022-03,Missing / Wrong Items,8,16.0
+Pizza Hut,2022-03,Taste & Flavor,7,14.0
+Pizza Hut,2022-03,Incorrect Billing,6,12.0
+Pizza Hut,2022-03,Portion Size,6,12.0
+Pizza Hut,2022-03,Service,6,12.0
+Pizza Hut,2022-03,Delivery Speed,4,8.0
+Pizza Hut,2022-03,Other,4,8.0
+Pizza Hut,2022-03,Cleanliness,3,6.0
+Pizza Hut,2022-03,Price / Value,3,6.0
+Pizza Hut,2022-03,Food Temperature,2,4.0
+Pizza Hut,2022-03,Packaging,1,2.0
+Pizza Hut,2022-04,Missing / Wrong Items,6,12.8
+Pizza Hut,2022-04,Service,6,12.8
+Pizza Hut,2022-04,Taste & Flavor,6,12.8
+Pizza Hut,2022-04,Cleanliness,5,10.6
+Pizza Hut,2022-04,Portion Size,5,10.6
+Pizza Hut,2022-04,Delivery Speed,4,8.5
+Pizza Hut,2022-04,Incorrect Billing,4,8.5
+Pizza Hut,2022-04,Price / Value,4,8.5
+Pizza Hut,2022-04,Packaging,3,6.4
+Pizza Hut,2022-04,Food Temperature,2,4.3
+Pizza Hut,2022-04,Other,2,4.3
+Pizza Hut,2022-05,Cleanliness,2,12.5
+Pizza Hut,2022-05,Delivery Speed,2,12.5
+Pizza Hut,2022-05,Missing / Wrong Items,2,12.5
+Pizza Hut,2022-05,Portion Size,2,12.5
+Pizza Hut,2022-05,Price / Value,2,12.5
+Pizza Hut,2022-05,Service,2,12.5
+Pizza Hut,2022-05,Taste & Flavor,2,12.5
+Pizza Hut,2022-05,Incorrect Billing,1,6.2
+Pizza Hut,2022-05,Other,1,6.2
+Shawarmaati,2022-04,Cleanliness,1,16.7
+Shawarmaati,2022-04,Delivery Speed,1,16.7
+Shawarmaati,2022-04,Missing / Wrong Items,1,16.7
+Shawarmaati,2022-04,Other,1,16.7
+Shawarmaati,2022-04,Service,1,16.7
+Shawarmaati,2022-04,Taste & Flavor,1,16.7
+Shawarmaati,2022-05,Missing / Wrong Items,3,21.4
+Shawarmaati,2022-05,Cleanliness,2,14.3
+Shawarmaati,2022-05,Delivery Speed,2,14.3
+Shawarmaati,2022-05,Other,2,14.3
+Shawarmaati,2022-05,Service,2,14.3
+Shawarmaati,2022-05,Taste & Flavor,2,14.3
+Shawarmaati,2022-05,Portion Size,1,7.1
+Shawarmaati,2022-06,Taste & Flavor,2,40.0
+Shawarmaati,2022-06,Incorrect Billing,1,20.0
+Shawarmaati,2022-06,Missing / Wrong Items,1,20.0
+Shawarmaati,2022-06,Service,1,20.0
+Shawarmaati,2022-08,Delivery Speed,2,11.1
+Shawarmaati,2022-08,Incorrect Billing,2,11.1
+Shawarmaati,2022-08,Missing / Wrong Items,2,11.1
+Shawarmaati,2022-08,Other,2,11.1
+Shawarmaati,2022-08,Portion Size,2,11.1
+Shawarmaati,2022-08,Price / Value,2,11.1
+Shawarmaati,2022-08,Service,2,11.1
+Shawarmaati,2022-08,Taste & Flavor,2,11.1
+Shawarmaati,2022-08,Cleanliness,1,5.6
+Shawarmaati,2022-08,Food Temperature,1,5.6
+Shawarmaati,2022-09,Missing / Wrong Items,2,18.2
+Shawarmaati,2022-09,Portion Size,2,18.2
+Shawarmaati,2022-09,Taste & Flavor,2,18.2
+Shawarmaati,2022-09,Cleanliness,1,9.1
+Shawarmaati,2022-09,Delivery Speed,1,9.1
+Shawarmaati,2022-09,Incorrect Billing,1,9.1
+Shawarmaati,2022-09,Other,1,9.1
+Shawarmaati,2022-09,Service,1,9.1
+Shawarmaati,2023-03,Cleanliness,1,11.1
+Shawarmaati,2023-03,Delivery Speed,1,11.1
+Shawarmaati,2023-03,Incorrect Billing,1,11.1
+Shawarmaati,2023-03,Missing / Wrong Items,1,11.1
+Shawarmaati,2023-03,Other,1,11.1
+Shawarmaati,2023-03,Portion Size,1,11.1
+Shawarmaati,2023-03,Price / Value,1,11.1
+Shawarmaati,2023-03,Service,1,11.1
+Shawarmaati,2023-03,Taste & Flavor,1,11.1
+Shawarmaati,2023-04,Cleanliness,1,11.1
+Shawarmaati,2023-04,Delivery Speed,1,11.1
+Shawarmaati,2023-04,Incorrect Billing,1,11.1
+Shawarmaati,2023-04,Missing / Wrong Items,1,11.1
+Shawarmaati,2023-04,Other,1,11.1
+Shawarmaati,2023-04,Portion Size,1,11.1
+Shawarmaati,2023-04,Price / Value,1,11.1
+Shawarmaati,2023-04,Service,1,11.1
+Shawarmaati,2023-04,Taste & Flavor,1,11.1
+Shawarmaati,2023-06,Cleanliness,3,12.0
+Shawarmaati,2023-06,Delivery Speed,3,12.0
+Shawarmaati,2023-06,Missing / Wrong Items,3,12.0
+Shawarmaati,2023-06,Other,3,12.0
+Shawarmaati,2023-06,Price / Value,3,12.0
+Shawarmaati,2023-06,Service,3,12.0
+Shawarmaati,2023-06,Taste & Flavor,3,12.0
+Shawarmaati,2023-06,Incorrect Billing,2,8.0
+Shawarmaati,2023-06,Portion Size,2,8.0
+Shawarmaati,2023-12,Cleanliness,1,11.1
+Shawarmaati,2023-12,Delivery Speed,1,11.1
+Shawarmaati,2023-12,Incorrect Billing,1,11.1
+Shawarmaati,2023-12,Missing / Wrong Items,1,11.1
+Shawarmaati,2023-12,Other,1,11.1
+Shawarmaati,2023-12,Portion Size,1,11.1
+Shawarmaati,2023-12,Price / Value,1,11.1
+Shawarmaati,2023-12,Service,1,11.1
+Shawarmaati,2023-12,Taste & Flavor,1,11.1
+Shawarmaati,2024-05,Cleanliness,1,12.5
+Shawarmaati,2024-05,Incorrect Billing,1,12.5
+Shawarmaati,2024-05,Missing / Wrong Items,1,12.5
+Shawarmaati,2024-05,Other,1,12.5
+Shawarmaati,2024-05,Portion Size,1,12.5
+Shawarmaati,2024-05,Price / Value,1,12.5
+Shawarmaati,2024-05,Service,1,12.5
+Shawarmaati,2024-05,Taste & Flavor,1,12.5
+Shawarmaati,2024-06,Cleanliness,1,12.5
+Shawarmaati,2024-06,Delivery Speed,1,12.5
+Shawarmaati,2024-06,Missing / Wrong Items,1,12.5
+Shawarmaati,2024-06,Other,1,12.5
+Shawarmaati,2024-06,Portion Size,1,12.5
+Shawarmaati,2024-06,Price / Value,1,12.5
+Shawarmaati,2024-06,Service,1,12.5
+Shawarmaati,2024-06,Taste & Flavor,1,12.5
+Shawarmaati,2025-06,Cleanliness,1,12.5
+Shawarmaati,2025-06,Delivery Speed,1,12.5
+Shawarmaati,2025-06,Incorrect Billing,1,12.5
+Shawarmaati,2025-06,Missing / Wrong Items,1,12.5
+Shawarmaati,2025-06,Other,1,12.5
+Shawarmaati,2025-06,Portion Size,1,12.5
+Shawarmaati,2025-06,Service,1,12.5
+Shawarmaati,2025-06,Taste & Flavor,1,12.5
+Shawerma Reem,2022-01,Cleanliness,4,12.9
+Shawerma Reem,2022-01,Delivery Speed,4,12.9
+Shawerma Reem,2022-01,Missing / Wrong Items,4,12.9
+Shawerma Reem,2022-01,Service,4,12.9
+Shawerma Reem,2022-01,Taste & Flavor,4,12.9
+Shawerma Reem,2022-01,Incorrect Billing,3,9.7
+Shawerma Reem,2022-01,Other,3,9.7
+Shawerma Reem,2022-01,Price / Value,3,9.7
+Shawerma Reem,2022-01,Portion Size,2,6.5
+Shawerma Reem,2022-03,Incorrect Billing,2,15.4
+Shawerma Reem,2022-03,Missing / Wrong Items,2,15.4
+Shawerma Reem,2022-03,Price / Value,2,15.4
+Shawerma Reem,2022-03,Cleanliness,1,7.7
+Shawerma Reem,2022-03,Delivery Speed,1,7.7
+Shawerma Reem,2022-03,Other,1,7.7
+Shawerma Reem,2022-03,Packaging,1,7.7
+Shawerma Reem,2022-03,Portion Size,1,7.7
+Shawerma Reem,2022-03,Service,1,7.7
+Shawerma Reem,2022-03,Taste & Flavor,1,7.7
+Shawerma Reem,2022-04,Missing / Wrong Items,4,14.3
+Shawerma Reem,2022-04,Other,4,14.3
+Shawerma Reem,2022-04,Cleanliness,3,10.7
+Shawerma Reem,2022-04,Delivery Speed,3,10.7
+Shawerma Reem,2022-04,Price / Value,3,10.7
+Shawerma Reem,2022-04,Service,3,10.7
+Shawerma Reem,2022-04,Taste & Flavor,3,10.7
+Shawerma Reem,2022-04,Incorrect Billing,2,7.1
+Shawerma Reem,2022-04,Portion Size,2,7.1
+Shawerma Reem,2022-04,Packaging,1,3.6
+Shawerma Reem,2022-05,Cleanliness,6,13.6
+Shawerma Reem,2022-05,Missing / Wrong Items,6,13.6
+Shawerma Reem,2022-05,Incorrect Billing,5,11.4
+Shawerma Reem,2022-05,Other,5,11.4
+Shawerma Reem,2022-05,Service,5,11.4
+Shawerma Reem,2022-05,Taste & Flavor,5,11.4
+Shawerma Reem,2022-05,Delivery Speed,4,9.1
+Shawerma Reem,2022-05,Portion Size,4,9.1
+Shawerma Reem,2022-05,Price / Value,3,6.8
+Shawerma Reem,2022-05,Packaging,1,2.3
+Shawerma Reem,2022-06,Cleanliness,1,12.5
+Shawerma Reem,2022-06,Delivery Speed,1,12.5
+Shawerma Reem,2022-06,Incorrect Billing,1,12.5
+Shawerma Reem,2022-06,Missing / Wrong Items,1,12.5
+Shawerma Reem,2022-06,Portion Size,1,12.5
+Shawerma Reem,2022-06,Price / Value,1,12.5
+Shawerma Reem,2022-06,Service,1,12.5
+Shawerma Reem,2022-06,Taste & Flavor,1,12.5
+Shawerma Reem,2022-07,Cleanliness,1,11.1
+Shawerma Reem,2022-07,Delivery Speed,1,11.1
+Shawerma Reem,2022-07,Incorrect Billing,1,11.1
+Shawerma Reem,2022-07,Missing / Wrong Items,1,11.1
+Shawerma Reem,2022-07,Other,1,11.1
+Shawerma Reem,2022-07,Portion Size,1,11.1
+Shawerma Reem,2022-07,Price / Value,1,11.1
+Shawerma Reem,2022-07,Service,1,11.1
+Shawerma Reem,2022-07,Taste & Flavor,1,11.1
+Shawerma Reem,2022-08,Cleanliness,5,10.9
+Shawerma Reem,2022-08,Delivery Speed,5,10.9
+Shawerma Reem,2022-08,Incorrect Billing,5,10.9
+Shawerma Reem,2022-08,Missing / Wrong Items,5,10.9
+Shawerma Reem,2022-08,Other,5,10.9
+Shawerma Reem,2022-08,Portion Size,5,10.9
+Shawerma Reem,2022-08,Price / Value,5,10.9
+Shawerma Reem,2022-08,Service,5,10.9
+Shawerma Reem,2022-08,Taste & Flavor,5,10.9
+Shawerma Reem,2022-08,Packaging,1,2.2
+Shawerma Reem,2022-09,Missing / Wrong Items,3,15.8
+Shawerma Reem,2022-09,Taste & Flavor,3,15.8
+Shawerma Reem,2022-09,Cleanliness,2,10.5
+Shawerma Reem,2022-09,Delivery Speed,2,10.5
+Shawerma Reem,2022-09,Incorrect Billing,2,10.5
+Shawerma Reem,2022-09,Other,2,10.5
+Shawerma Reem,2022-09,Portion Size,2,10.5
+Shawerma Reem,2022-09,Service,2,10.5
+Shawerma Reem,2022-09,Price / Value,1,5.3
+Shawerma Reem,2022-11,Cleanliness,4,11.1
+Shawerma Reem,2022-11,Delivery Speed,4,11.1
+Shawerma Reem,2022-11,Incorrect Billing,4,11.1
+Shawerma Reem,2022-11,Missing / Wrong Items,4,11.1
+Shawerma Reem,2022-11,Other,4,11.1
+Shawerma Reem,2022-11,Portion Size,4,11.1
+Shawerma Reem,2022-11,Price / Value,4,11.1
+Shawerma Reem,2022-11,Service,4,11.1
+Shawerma Reem,2022-11,Taste & Flavor,4,11.1
+Shawerma Reem,2023-02,Cleanliness,2,10.5
+Shawerma Reem,2023-02,Delivery Speed,2,10.5
+Shawerma Reem,2023-02,Incorrect Billing,2,10.5
+Shawerma Reem,2023-02,Missing / Wrong Items,2,10.5
+Shawerma Reem,2023-02,Other,2,10.5
+Shawerma Reem,2023-02,Portion Size,2,10.5
+Shawerma Reem,2023-02,Price / Value,2,10.5
+Shawerma Reem,2023-02,Service,2,10.5
+Shawerma Reem,2023-02,Taste & Flavor,2,10.5
+Shawerma Reem,2023-02,Packaging,1,5.3
+Shawerma Reem,2023-03,Cleanliness,3,13.0
+Shawerma Reem,2023-03,Delivery Speed,3,13.0
+Shawerma Reem,2023-03,Missing / Wrong Items,3,13.0
+Shawerma Reem,2023-03,Service,3,13.0
+Shawerma Reem,2023-03,Taste & Flavor,3,13.0
+Shawerma Reem,2023-03,Incorrect Billing,2,8.7
+Shawerma Reem,2023-03,Other,2,8.7
+Shawerma Reem,2023-03,Portion Size,2,8.7
+Shawerma Reem,2023-03,Price / Value,2,8.7
+Shawerma Reem,2023-04,Cleanliness,2,12.5
+Shawerma Reem,2023-04,Delivery Speed,2,12.5
+Shawerma Reem,2023-04,Missing / Wrong Items,2,12.5
+Shawerma Reem,2023-04,Price / Value,2,12.5
+Shawerma Reem,2023-04,Service,2,12.5
+Shawerma Reem,2023-04,Taste & Flavor,2,12.5
+Shawerma Reem,2023-04,Incorrect Billing,1,6.2
+Shawerma Reem,2023-04,Other,1,6.2
+Shawerma Reem,2023-04,Packaging,1,6.2
+Shawerma Reem,2023-04,Portion Size,1,6.2
+Shawerma Reem,2023-05,Cleanliness,2,11.8
+Shawerma Reem,2023-05,Delivery Speed,2,11.8
+Shawerma Reem,2023-05,Missing / Wrong Items,2,11.8
+Shawerma Reem,2023-05,Other,2,11.8
+Shawerma Reem,2023-05,Price / Value,2,11.8
+Shawerma Reem,2023-05,Service,2,11.8
+Shawerma Reem,2023-05,Taste & Flavor,2,11.8
+Shawerma Reem,2023-05,Incorrect Billing,1,5.9
+Shawerma Reem,2023-05,Packaging,1,5.9
+Shawerma Reem,2023-05,Portion Size,1,5.9
+Shawerma Reem,2023-07,Cleanliness,7,13.2
+Shawerma Reem,2023-07,Delivery Speed,7,13.2
+Shawerma Reem,2023-07,Service,7,13.2
+Shawerma Reem,2023-07,Taste & Flavor,7,13.2
+Shawerma Reem,2023-07,Missing / Wrong Items,6,11.3
+Shawerma Reem,2023-07,Other,6,11.3
+Shawerma Reem,2023-07,Price / Value,6,11.3
+Shawerma Reem,2023-07,Portion Size,4,7.5
+Shawerma Reem,2023-07,Incorrect Billing,3,5.7
+Shawerma Reem,2023-08,Cleanliness,4,10.8
+Shawerma Reem,2023-08,Delivery Speed,4,10.8
+Shawerma Reem,2023-08,Incorrect Billing,4,10.8
+Shawerma Reem,2023-08,Missing / Wrong Items,4,10.8
+Shawerma Reem,2023-08,Other,4,10.8
+Shawerma Reem,2023-08,Portion Size,4,10.8
+Shawerma Reem,2023-08,Price / Value,4,10.8
+Shawerma Reem,2023-08,Service,4,10.8
+Shawerma Reem,2023-08,Taste & Flavor,4,10.8
+Shawerma Reem,2023-08,Packaging,1,2.7
+Shawerma Reem,2023-09,Cleanliness,3,13.0
+Shawerma Reem,2023-09,Missing / Wrong Items,3,13.0
+Shawerma Reem,2023-09,Other,3,13.0
+Shawerma Reem,2023-09,Portion Size,3,13.0
+Shawerma Reem,2023-09,Service,3,13.0
+Shawerma Reem,2023-09,Taste & Flavor,3,13.0
+Shawerma Reem,2023-09,Incorrect Billing,2,8.7
+Shawerma Reem,2023-09,Price / Value,2,8.7
+Shawerma Reem,2023-09,Delivery Speed,1,4.3
+Shawerma Reem,2023-10,Cleanliness,3,13.0
+Shawerma Reem,2023-10,Delivery Speed,3,13.0
+Shawerma Reem,2023-10,Missing / Wrong Items,3,13.0
+Shawerma Reem,2023-10,Other,3,13.0
+Shawerma Reem,2023-10,Portion Size,3,13.0
+Shawerma Reem,2023-10,Service,3,13.0
+Shawerma Reem,2023-10,Incorrect Billing,2,8.7
+Shawerma Reem,2023-10,Taste & Flavor,2,8.7
+Shawerma Reem,2023-10,Price / Value,1,4.3
+Shawerma Reem,2023-11,Cleanliness,1,12.5
+Shawerma Reem,2023-11,Delivery Speed,1,12.5
+Shawerma Reem,2023-11,Missing / Wrong Items,1,12.5
+Shawerma Reem,2023-11,Other,1,12.5
+Shawerma Reem,2023-11,Portion Size,1,12.5
+Shawerma Reem,2023-11,Price / Value,1,12.5
+Shawerma Reem,2023-11,Service,1,12.5
+Shawerma Reem,2023-11,Taste & Flavor,1,12.5
+Shawerma Reem,2023-12,Cleanliness,3,12.5
+Shawerma Reem,2023-12,Missing / Wrong Items,3,12.5
+Shawerma Reem,2023-12,Price / Value,3,12.5
+Shawerma Reem,2023-12,Service,3,12.5
+Shawerma Reem,2023-12,Taste & Flavor,3,12.5
+Shawerma Reem,2023-12,Delivery Speed,2,8.3
+Shawerma Reem,2023-12,Incorrect Billing,2,8.3
+Shawerma Reem,2023-12,Other,2,8.3
+Shawerma Reem,2023-12,Portion Size,2,8.3
+Shawerma Reem,2023-12,Packaging,1,4.2
+Shawerma Reem,2024-01,Cleanliness,3,12.0
+Shawerma Reem,2024-01,Missing / Wrong Items,3,12.0
+Shawerma Reem,2024-01,Portion Size,3,12.0
+Shawerma Reem,2024-01,Price / Value,3,12.0
+Shawerma Reem,2024-01,Service,3,12.0
+Shawerma Reem,2024-01,Taste & Flavor,3,12.0
+Shawerma Reem,2024-01,Delivery Speed,2,8.0
+Shawerma Reem,2024-01,Incorrect Billing,2,8.0
+Shawerma Reem,2024-01,Other,2,8.0
+Shawerma Reem,2024-01,Packaging,1,4.0
+Shawerma Reem,2024-02,Cleanliness,2,10.5
+Shawerma Reem,2024-02,Delivery Speed,2,10.5
+Shawerma Reem,2024-02,Incorrect Billing,2,10.5
+Shawerma Reem,2024-02,Missing / Wrong Items,2,10.5
+Shawerma Reem,2024-02,Other,2,10.5
+Shawerma Reem,2024-02,Portion Size,2,10.5
+Shawerma Reem,2024-02,Price / Value,2,10.5
+Shawerma Reem,2024-02,Service,2,10.5
+Shawerma Reem,2024-02,Taste & Flavor,2,10.5
+Shawerma Reem,2024-02,Packaging,1,5.3
+Shawerma Reem,2024-03,Cleanliness,1,12.5
+Shawerma Reem,2024-03,Delivery Speed,1,12.5
+Shawerma Reem,2024-03,Incorrect Billing,1,12.5
+Shawerma Reem,2024-03,Missing / Wrong Items,1,12.5
+Shawerma Reem,2024-03,Portion Size,1,12.5
+Shawerma Reem,2024-03,Price / Value,1,12.5
+Shawerma Reem,2024-03,Service,1,12.5
+Shawerma Reem,2024-03,Taste & Flavor,1,12.5
+Shawerma Reem,2024-04,Cleanliness,3,11.5
+Shawerma Reem,2024-04,Delivery Speed,3,11.5
+Shawerma Reem,2024-04,Missing / Wrong Items,3,11.5
+Shawerma Reem,2024-04,Portion Size,3,11.5
+Shawerma Reem,2024-04,Price / Value,3,11.5
+Shawerma Reem,2024-04,Service,3,11.5
+Shawerma Reem,2024-04,Taste & Flavor,3,11.5
+Shawerma Reem,2024-04,Incorrect Billing,2,7.7
+Shawerma Reem,2024-04,Other,2,7.7
+Shawerma Reem,2024-04,Packaging,1,3.8
+Shawerma Reem,2024-06,Cleanliness,2,11.8
+Shawerma Reem,2024-06,Delivery Speed,2,11.8
+Shawerma Reem,2024-06,Missing / Wrong Items,2,11.8
+Shawerma Reem,2024-06,Other,2,11.8
+Shawerma Reem,2024-06,Portion Size,2,11.8
+Shawerma Reem,2024-06,Price / Value,2,11.8
+Shawerma Reem,2024-06,Service,2,11.8
+Shawerma Reem,2024-06,Taste & Flavor,2,11.8
+Shawerma Reem,2024-06,Incorrect Billing,1,5.9
+Shawerma Reem,2024-07,Cleanliness,1,11.1
+Shawerma Reem,2024-07,Delivery Speed,1,11.1
+Shawerma Reem,2024-07,Incorrect Billing,1,11.1
+Shawerma Reem,2024-07,Missing / Wrong Items,1,11.1
+Shawerma Reem,2024-07,Other,1,11.1
+Shawerma Reem,2024-07,Portion Size,1,11.1
+Shawerma Reem,2024-07,Price / Value,1,11.1
+Shawerma Reem,2024-07,Service,1,11.1
+Shawerma Reem,2024-07,Taste & Flavor,1,11.1
+Shawerma Reem,2024-08,Missing / Wrong Items,8,12.5
+Shawerma Reem,2024-08,Taste & Flavor,8,12.5
+Shawerma Reem,2024-08,Cleanliness,7,10.9
+Shawerma Reem,2024-08,Other,7,10.9
+Shawerma Reem,2024-08,Portion Size,7,10.9
+Shawerma Reem,2024-08,Service,7,10.9
+Shawerma Reem,2024-08,Delivery Speed,6,9.4
+Shawerma Reem,2024-08,Incorrect Billing,6,9.4
+Shawerma Reem,2024-08,Price / Value,6,9.4
+Shawerma Reem,2024-08,Packaging,2,3.1
+Shawerma Reem,2024-09,Cleanliness,2,10.5
+Shawerma Reem,2024-09,Delivery Speed,2,10.5
+Shawerma Reem,2024-09,Incorrect Billing,2,10.5
+Shawerma Reem,2024-09,Missing / Wrong Items,2,10.5
+Shawerma Reem,2024-09,Other,2,10.5
+Shawerma Reem,2024-09,Portion Size,2,10.5
+Shawerma Reem,2024-09,Price / Value,2,10.5
+Shawerma Reem,2024-09,Service,2,10.5
+Shawerma Reem,2024-09,Taste & Flavor,2,10.5
+Shawerma Reem,2024-09,Packaging,1,5.3
+Shawerma Reem,2024-10,Cleanliness,3,11.5
+Shawerma Reem,2024-10,Delivery Speed,3,11.5
+Shawerma Reem,2024-10,Missing / Wrong Items,3,11.5
+Shawerma Reem,2024-10,Other,3,11.5
+Shawerma Reem,2024-10,Portion Size,3,11.5
+Shawerma Reem,2024-10,Price / Value,3,11.5
+Shawerma Reem,2024-10,Service,3,11.5
+Shawerma Reem,2024-10,Taste & Flavor,3,11.5
+Shawerma Reem,2024-10,Incorrect Billing,2,7.7
+Shawerma Reem,2024-11,Cleanliness,4,12.5
+Shawerma Reem,2024-11,Delivery Speed,4,12.5
+Shawerma Reem,2024-11,Missing / Wrong Items,4,12.5
+Shawerma Reem,2024-11,Other,4,12.5
+Shawerma Reem,2024-11,Price / Value,4,12.5
+Shawerma Reem,2024-11,Service,4,12.5
+Shawerma Reem,2024-11,Taste & Flavor,4,12.5
+Shawerma Reem,2024-11,Portion Size,3,9.4
+Shawerma Reem,2024-11,Incorrect Billing,1,3.1
+Shawerma Reem,2024-12,Cleanliness,10,12.5
+Shawerma Reem,2024-12,Missing / Wrong Items,10,12.5
+Shawerma Reem,2024-12,Service,10,12.5
+Shawerma Reem,2024-12,Delivery Speed,9,11.2
+Shawerma Reem,2024-12,Other,9,11.2
+Shawerma Reem,2024-12,Portion Size,8,10.0
+Shawerma Reem,2024-12,Price / Value,8,10.0
+Shawerma Reem,2024-12,Taste & Flavor,8,10.0
+Shawerma Reem,2024-12,Incorrect Billing,6,7.5
+Shawerma Reem,2024-12,Packaging,2,2.5
+Shawerma Reem,2025-01,Cleanliness,2,11.1
+Shawerma Reem,2025-01,Delivery Speed,2,11.1
+Shawerma Reem,2025-01,Incorrect Billing,2,11.1
+Shawerma Reem,2025-01,Missing / Wrong Items,2,11.1
+Shawerma Reem,2025-01,Other,2,11.1
+Shawerma Reem,2025-01,Portion Size,2,11.1
+Shawerma Reem,2025-01,Price / Value,2,11.1
+Shawerma Reem,2025-01,Service,2,11.1
+Shawerma Reem,2025-01,Taste & Flavor,2,11.1
+Shawerma Reem,2025-02,Cleanliness,3,11.1
+Shawerma Reem,2025-02,Delivery Speed,3,11.1
+Shawerma Reem,2025-02,Incorrect Billing,3,11.1
+Shawerma Reem,2025-02,Missing / Wrong Items,3,11.1
+Shawerma Reem,2025-02,Other,3,11.1
+Shawerma Reem,2025-02,Portion Size,3,11.1
+Shawerma Reem,2025-02,Price / Value,3,11.1
+Shawerma Reem,2025-02,Service,3,11.1
+Shawerma Reem,2025-02,Taste & Flavor,3,11.1
+Shawerma Reem,2025-03,Cleanliness,1,25.0
+Shawerma Reem,2025-03,Delivery Speed,1,25.0
+Shawerma Reem,2025-03,Missing / Wrong Items,1,25.0
+Shawerma Reem,2025-03,Service,1,25.0
+Shawerma Reem,2025-04,Missing / Wrong Items,4,13.3
+Shawerma Reem,2025-04,Other,4,13.3
+Shawerma Reem,2025-04,Taste & Flavor,4,13.3
+Shawerma Reem,2025-04,Delivery Speed,3,10.0
+Shawerma Reem,2025-04,Incorrect Billing,3,10.0
+Shawerma Reem,2025-04,Portion Size,3,10.0
+Shawerma Reem,2025-04,Price / Value,3,10.0
+Shawerma Reem,2025-04,Service,3,10.0
+Shawerma Reem,2025-04,Cleanliness,2,6.7
+Shawerma Reem,2025-04,Packaging,1,3.3
+Shawerma Reem,2025-05,Missing / Wrong Items,5,12.8
+Shawerma Reem,2025-05,Other,5,12.8
+Shawerma Reem,2025-05,Taste & Flavor,5,12.8
+Shawerma Reem,2025-05,Cleanliness,4,10.3
+Shawerma Reem,2025-05,Delivery Speed,4,10.3
+Shawerma Reem,2025-05,Incorrect Billing,4,10.3
+Shawerma Reem,2025-05,Price / Value,4,10.3
+Shawerma Reem,2025-05,Service,4,10.3
+Shawerma Reem,2025-05,Portion Size,3,7.7
+Shawerma Reem,2025-05,Packaging,1,2.6
+Shawerma Reem,2025-06,Cleanliness,4,10.3
+Shawerma Reem,2025-06,Delivery Speed,4,10.3
+Shawerma Reem,2025-06,Incorrect Billing,4,10.3
+Shawerma Reem,2025-06,Missing / Wrong Items,4,10.3
+Shawerma Reem,2025-06,Other,4,10.3
+Shawerma Reem,2025-06,Portion Size,4,10.3
+Shawerma Reem,2025-06,Price / Value,4,10.3
+Shawerma Reem,2025-06,Service,4,10.3
+Shawerma Reem,2025-06,Taste & Flavor,4,10.3
+Shawerma Reem,2025-06,Packaging,3,7.7
+Shawerma Reem,2025-07,Cleanliness,2,11.1
+Shawerma Reem,2025-07,Delivery Speed,2,11.1
+Shawerma Reem,2025-07,Incorrect Billing,2,11.1
+Shawerma Reem,2025-07,Missing / Wrong Items,2,11.1
+Shawerma Reem,2025-07,Other,2,11.1
+Shawerma Reem,2025-07,Portion Size,2,11.1
+Shawerma Reem,2025-07,Price / Value,2,11.1
+Shawerma Reem,2025-07,Service,2,11.1
+Shawerma Reem,2025-07,Taste & Flavor,2,11.1
+Shawerma Reem,2025-09,Cleanliness,5,11.1
+Shawerma Reem,2025-09,Delivery Speed,5,11.1
+Shawerma Reem,2025-09,Missing / Wrong Items,5,11.1
+Shawerma Reem,2025-09,Other,5,11.1
+Shawerma Reem,2025-09,Portion Size,5,11.1
+Shawerma Reem,2025-09,Price / Value,5,11.1
+Shawerma Reem,2025-09,Service,5,11.1
+Shawerma Reem,2025-09,Taste & Flavor,5,11.1
+Shawerma Reem,2025-09,Incorrect Billing,4,8.9
+Shawerma Reem,2025-09,Packaging,1,2.2
+Shawerma Reem,2025-10,Cleanliness,1,14.3
+Shawerma Reem,2025-10,Delivery Speed,1,14.3
+Shawerma Reem,2025-10,Incorrect Billing,1,14.3
+Shawerma Reem,2025-10,Missing / Wrong Items,1,14.3
+Shawerma Reem,2025-10,Portion Size,1,14.3
+Shawerma Reem,2025-10,Service,1,14.3
+Shawerma Reem,2025-10,Taste & Flavor,1,14.3
+Shawerma Reem,2025-11,Cleanliness,3,10.7
+Shawerma Reem,2025-11,Delivery Speed,3,10.7
+Shawerma Reem,2025-11,Incorrect Billing,3,10.7
+Shawerma Reem,2025-11,Missing / Wrong Items,3,10.7
+Shawerma Reem,2025-11,Other,3,10.7
+Shawerma Reem,2025-11,Portion Size,3,10.7
+Shawerma Reem,2025-11,Service,3,10.7
+Shawerma Reem,2025-11,Taste & Flavor,3,10.7
+Shawerma Reem,2025-11,Packaging,2,7.1
+Shawerma Reem,2025-11,Price / Value,2,7.1
+Wazzup Dog,2022-01,Cleanliness,1,11.1
+Wazzup Dog,2022-01,Delivery Speed,1,11.1
+Wazzup Dog,2022-01,Incorrect Billing,1,11.1
+Wazzup Dog,2022-01,Missing / Wrong Items,1,11.1
+Wazzup Dog,2022-01,Other,1,11.1
+Wazzup Dog,2022-01,Portion Size,1,11.1
+Wazzup Dog,2022-01,Price / Value,1,11.1
+Wazzup Dog,2022-01,Service,1,11.1
+Wazzup Dog,2022-01,Taste & Flavor,1,11.1
+Wazzup Dog,2022-03,Missing / Wrong Items,1,25.0
+Wazzup Dog,2022-03,Other,1,25.0
+Wazzup Dog,2022-03,Portion Size,1,25.0
+Wazzup Dog,2022-03,Price / Value,1,25.0
+Wazzup Dog,2022-05,Missing / Wrong Items,2,16.7
+Wazzup Dog,2022-05,Service,2,16.7
+Wazzup Dog,2022-05,Taste & Flavor,2,16.7
+Wazzup Dog,2022-05,Cleanliness,1,8.3
+Wazzup Dog,2022-05,Delivery Speed,1,8.3
+Wazzup Dog,2022-05,Food Temperature,1,8.3
+Wazzup Dog,2022-05,Incorrect Billing,1,8.3
+Wazzup Dog,2022-05,Portion Size,1,8.3
+Wazzup Dog,2022-05,Price / Value,1,8.3
+Wazzup Dog,2022-06,Cleanliness,2,14.3
+Wazzup Dog,2022-06,Missing / Wrong Items,2,14.3
+Wazzup Dog,2022-06,Other,2,14.3
+Wazzup Dog,2022-06,Service,2,14.3
+Wazzup Dog,2022-06,Taste & Flavor,2,14.3
+Wazzup Dog,2022-06,Delivery Speed,1,7.1
+Wazzup Dog,2022-06,Incorrect Billing,1,7.1
+Wazzup Dog,2022-06,Portion Size,1,7.1
+Wazzup Dog,2022-06,Price / Value,1,7.1
+Wazzup Dog,2022-08,Cleanliness,1,11.1
+Wazzup Dog,2022-08,Delivery Speed,1,11.1
+Wazzup Dog,2022-08,Incorrect Billing,1,11.1
+Wazzup Dog,2022-08,Missing / Wrong Items,1,11.1
+Wazzup Dog,2022-08,Other,1,11.1
+Wazzup Dog,2022-08,Portion Size,1,11.1
+Wazzup Dog,2022-08,Price / Value,1,11.1
+Wazzup Dog,2022-08,Service,1,11.1
+Wazzup Dog,2022-08,Taste & Flavor,1,11.1
+Wazzup Dog,2023-01,Cleanliness,1,12.5
+Wazzup Dog,2023-01,Delivery Speed,1,12.5
+Wazzup Dog,2023-01,Incorrect Billing,1,12.5
+Wazzup Dog,2023-01,Missing / Wrong Items,1,12.5
+Wazzup Dog,2023-01,Other,1,12.5
+Wazzup Dog,2023-01,Price / Value,1,12.5
+Wazzup Dog,2023-01,Service,1,12.5
+Wazzup Dog,2023-01,Taste & Flavor,1,12.5
+Wazzup Dog,2023-02,Cleanliness,1,12.5
+Wazzup Dog,2023-02,Delivery Speed,1,12.5
+Wazzup Dog,2023-02,Missing / Wrong Items,1,12.5
+Wazzup Dog,2023-02,Other,1,12.5
+Wazzup Dog,2023-02,Portion Size,1,12.5
+Wazzup Dog,2023-02,Price / Value,1,12.5
+Wazzup Dog,2023-02,Service,1,12.5
+Wazzup Dog,2023-02,Taste & Flavor,1,12.5
+Wazzup Dog,2023-03,Cleanliness,1,12.5
+Wazzup Dog,2023-03,Delivery Speed,1,12.5
+Wazzup Dog,2023-03,Missing / Wrong Items,1,12.5
+Wazzup Dog,2023-03,Other,1,12.5
+Wazzup Dog,2023-03,Portion Size,1,12.5
+Wazzup Dog,2023-03,Price / Value,1,12.5
+Wazzup Dog,2023-03,Service,1,12.5
+Wazzup Dog,2023-03,Taste & Flavor,1,12.5
+Wazzup Dog,2023-04,Cleanliness,1,14.3
+Wazzup Dog,2023-04,Delivery Speed,1,14.3
+Wazzup Dog,2023-04,Missing / Wrong Items,1,14.3
+Wazzup Dog,2023-04,Other,1,14.3
+Wazzup Dog,2023-04,Price / Value,1,14.3
+Wazzup Dog,2023-04,Service,1,14.3
+Wazzup Dog,2023-04,Taste & Flavor,1,14.3
+Wazzup Dog,2023-05,Cleanliness,1,14.3
+Wazzup Dog,2023-05,Delivery Speed,1,14.3
+Wazzup Dog,2023-05,Missing / Wrong Items,1,14.3
+Wazzup Dog,2023-05,Other,1,14.3
+Wazzup Dog,2023-05,Portion Size,1,14.3
+Wazzup Dog,2023-05,Service,1,14.3
+Wazzup Dog,2023-05,Taste & Flavor,1,14.3
+Wazzup Dog,2023-07,Cleanliness,2,11.1
+Wazzup Dog,2023-07,Delivery Speed,2,11.1
+Wazzup Dog,2023-07,Incorrect Billing,2,11.1
+Wazzup Dog,2023-07,Missing / Wrong Items,2,11.1
+Wazzup Dog,2023-07,Other,2,11.1
+Wazzup Dog,2023-07,Portion Size,2,11.1
+Wazzup Dog,2023-07,Price / Value,2,11.1
+Wazzup Dog,2023-07,Service,2,11.1
+Wazzup Dog,2023-07,Taste & Flavor,2,11.1
+Xn Shawerma,2024-08,Cleanliness,3,12.5
+Xn Shawerma,2024-08,Delivery Speed,3,12.5
+Xn Shawerma,2024-08,Missing / Wrong Items,3,12.5
+Xn Shawerma,2024-08,Service,3,12.5
+Xn Shawerma,2024-08,Taste & Flavor,3,12.5
+Xn Shawerma,2024-08,Incorrect Billing,2,8.3
+Xn Shawerma,2024-08,Other,2,8.3
+Xn Shawerma,2024-08,Portion Size,2,8.3
+Xn Shawerma,2024-08,Price / Value,2,8.3
+Xn Shawerma,2024-08,Packaging,1,4.2
+Xn Shawerma,2024-09,Cleanliness,4,11.8
+Xn Shawerma,2024-09,Delivery Speed,4,11.8
+Xn Shawerma,2024-09,Missing / Wrong Items,4,11.8
+Xn Shawerma,2024-09,Other,4,11.8
+Xn Shawerma,2024-09,Portion Size,4,11.8
+Xn Shawerma,2024-09,Price / Value,4,11.8
+Xn Shawerma,2024-09,Service,4,11.8
+Xn Shawerma,2024-09,Taste & Flavor,4,11.8
+Xn Shawerma,2024-09,Incorrect Billing,2,5.9
+Xn Shawerma,2024-11,Cleanliness,1,11.1
+Xn Shawerma,2024-11,Delivery Speed,1,11.1
+Xn Shawerma,2024-11,Incorrect Billing,1,11.1
+Xn Shawerma,2024-11,Missing / Wrong Items,1,11.1
+Xn Shawerma,2024-11,Other,1,11.1
+Xn Shawerma,2024-11,Portion Size,1,11.1
+Xn Shawerma,2024-11,Price / Value,1,11.1
+Xn Shawerma,2024-11,Service,1,11.1
+Xn Shawerma,2024-11,Taste & Flavor,1,11.1
+Xn Shawerma,2024-12,Cleanliness,4,10.8
+Xn Shawerma,2024-12,Delivery Speed,4,10.8
+Xn Shawerma,2024-12,Incorrect Billing,4,10.8
+Xn Shawerma,2024-12,Missing / Wrong Items,4,10.8
+Xn Shawerma,2024-12,Other,4,10.8
+Xn Shawerma,2024-12,Portion Size,4,10.8
+Xn Shawerma,2024-12,Price / Value,4,10.8
+Xn Shawerma,2024-12,Service,4,10.8
+Xn Shawerma,2024-12,Taste & Flavor,4,10.8
+Xn Shawerma,2024-12,Packaging,1,2.7
+Xn Shawerma,2025-01,Cleanliness,5,12.5
+Xn Shawerma,2025-01,Delivery Speed,5,12.5
+Xn Shawerma,2025-01,Missing / Wrong Items,5,12.5
+Xn Shawerma,2025-01,Service,5,12.5
+Xn Shawerma,2025-01,Taste & Flavor,5,12.5
+Xn Shawerma,2025-01,Portion Size,4,10.0
+Xn Shawerma,2025-01,Price / Value,4,10.0
+Xn Shawerma,2025-01,Incorrect Billing,3,7.5
+Xn Shawerma,2025-01,Other,3,7.5
+Xn Shawerma,2025-01,Packaging,1,2.5
+Xn Shawerma,2025-03,Cleanliness,2,11.8
+Xn Shawerma,2025-03,Delivery Speed,2,11.8
+Xn Shawerma,2025-03,Incorrect Billing,2,11.8
+Xn Shawerma,2025-03,Missing / Wrong Items,2,11.8
+Xn Shawerma,2025-03,Portion Size,2,11.8
+Xn Shawerma,2025-03,Price / Value,2,11.8
+Xn Shawerma,2025-03,Service,2,11.8
+Xn Shawerma,2025-03,Taste & Flavor,2,11.8
+Xn Shawerma,2025-03,Other,1,5.9
+Xn Shawerma,2025-04,Cleanliness,2,12.5
+Xn Shawerma,2025-04,Incorrect Billing,2,12.5
+Xn Shawerma,2025-04,Missing / Wrong Items,2,12.5
+Xn Shawerma,2025-04,Other,2,12.5
+Xn Shawerma,2025-04,Portion Size,2,12.5
+Xn Shawerma,2025-04,Service,2,12.5
+Xn Shawerma,2025-04,Taste & Flavor,2,12.5
+Xn Shawerma,2025-04,Delivery Speed,1,6.2
+Xn Shawerma,2025-04,Price / Value,1,6.2
+Xn Shawerma,2025-05,Cleanliness,5,13.2
+Xn Shawerma,2025-05,Delivery Speed,5,13.2
+Xn Shawerma,2025-05,Missing / Wrong Items,5,13.2
+Xn Shawerma,2025-05,Service,5,13.2
+Xn Shawerma,2025-05,Portion Size,4,10.5
+Xn Shawerma,2025-05,Price / Value,4,10.5
+Xn Shawerma,2025-05,Taste & Flavor,4,10.5
+Xn Shawerma,2025-05,Other,3,7.9
+Xn Shawerma,2025-05,Incorrect Billing,2,5.3
+Xn Shawerma,2025-05,Packaging,1,2.6
+Xn Shawerma,2025-06,Cleanliness,6,12.5
+Xn Shawerma,2025-06,Delivery Speed,6,12.5
+Xn Shawerma,2025-06,Missing / Wrong Items,6,12.5
+Xn Shawerma,2025-06,Service,6,12.5
+Xn Shawerma,2025-06,Other,5,10.4
+Xn Shawerma,2025-06,Portion Size,5,10.4
+Xn Shawerma,2025-06,Price / Value,5,10.4
+Xn Shawerma,2025-06,Taste & Flavor,5,10.4
+Xn Shawerma,2025-06,Incorrect Billing,4,8.3
+Xn Shawerma,2025-07,Incorrect Billing,5,13.2
+Xn Shawerma,2025-07,Missing / Wrong Items,5,13.2
+Xn Shawerma,2025-07,Taste & Flavor,5,13.2
+Xn Shawerma,2025-07,Cleanliness,4,10.5
+Xn Shawerma,2025-07,Delivery Speed,4,10.5
+Xn Shawerma,2025-07,Other,4,10.5
+Xn Shawerma,2025-07,Service,4,10.5
+Xn Shawerma,2025-07,Portion Size,3,7.9
+Xn Shawerma,2025-07,Packaging,2,5.3
+Xn Shawerma,2025-07,Price / Value,2,5.3
+Xn Shawerma,2025-08,Missing / Wrong Items,1,100.0
+Xn Shawerma,2025-09,Cleanliness,2,10.5
+Xn Shawerma,2025-09,Delivery Speed,2,10.5
+Xn Shawerma,2025-09,Incorrect Billing,2,10.5
+Xn Shawerma,2025-09,Missing / Wrong Items,2,10.5
+Xn Shawerma,2025-09,Other,2,10.5
+Xn Shawerma,2025-09,Portion Size,2,10.5
+Xn Shawerma,2025-09,Price / Value,2,10.5
+Xn Shawerma,2025-09,Service,2,10.5
+Xn Shawerma,2025-09,Taste & Flavor,2,10.5
+Xn Shawerma,2025-09,Packaging,1,5.3
+Xn Shawerma,2025-10,Delivery Speed,7,13.5
+Xn Shawerma,2025-10,Missing / Wrong Items,7,13.5
+Xn Shawerma,2025-10,Service,7,13.5
+Xn Shawerma,2025-10,Cleanliness,6,11.5
+Xn Shawerma,2025-10,Price / Value,6,11.5
+Xn Shawerma,2025-10,Taste & Flavor,6,11.5
+Xn Shawerma,2025-10,Other,5,9.6
+Xn Shawerma,2025-10,Portion Size,5,9.6
+Xn Shawerma,2025-10,Incorrect Billing,3,5.8
