@@ -19,7 +19,7 @@ df["year_month"] = df["review_date"].dt.to_period("M").astype(str)
 # ===============================
 # 3. Keep ONLY negative reviews
 # ===============================
-df = df[df["final_sentiment"] == "Negative"]
+df = df[df["final_sentiment"] == "negative"]
 
 # ===============================
 # 4. Define candidate problem categories
@@ -98,4 +98,5 @@ problem_timeline.to_csv(
 )
 
 print(" Problem timeline analysis completed")
+
 print(" File saved: restaurant_problem_timeline_monthly.csv")
