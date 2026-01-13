@@ -35,4 +35,4 @@ For Visualization :
 📊 Power BI Dashboard: [project_visualization.pbix](./project_visualization.pbix)
 or for Power BI Web : https://app.powerbi.com/links/uaglO44oFg?ctid=97e5760c-fa12-4aae-b4e4-31b43f04e79d&pbi_source=linkShare
 
-- Final Presentation: [Sentiment Analysis of Talabat Reviews Using NLP- Katrine.pptx](./Sentiment Analysis of Talabat Reviews Using NLP- Katrine.pptx)
+- Final Presentation: [Sentiment Analysis of Talabat Reviews Using NLP - Katrine.pptx](Sentiment%20Analysis%20of%20Talabat%20Reviews%20Using%20NLP-%20Katrine.pptx)
